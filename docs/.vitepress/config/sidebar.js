@@ -94,6 +94,11 @@ module.exports = {
           text: '11.Flexbox布局中的对齐方式',
           link: '/html/css/note/11.Flexbox布局中的对齐方式',
         },
+        {
+          text: '12.CSS伪元素创建竖线并垂直居中',
+          link: '/html/css/note/12.CSS伪元素创建竖线并垂直居中',
+        },
+        
       ],
     },
   ],

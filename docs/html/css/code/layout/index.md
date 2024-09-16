@@ -59,9 +59,9 @@ CSS网格在线生成器。
 
 
 
-## CSS 8种居中方式
+## 🔥CSS 8种居中方式
 
-#### 1.flex布局设置居中
+### 1.flex布局设置居中
 
 常见的一种方式就是使用`flex`布局设置居中。
 利用弹性布局(`flex`)，实现水平居中，其中`justify-content` 用于设置弹性盒子元素在主轴（横轴）方向上的对齐方式
@@ -97,7 +97,7 @@ CSS网格在线生成器。
 
 ![img](/images/css/code/layout/10009.png)
 
-#### 2.flex-给子项设置
+### 2.flex-给子项设置
 
 第一种方式是给父盒子设置属性，这一种是给子盒子设置margin: auto实现居中。
 给容器设置 display: flex; 子项设置 margin: auto;
@@ -125,7 +125,7 @@ CSS网格在线生成器。
 
 ![img](/images/css/code/layout/10008.png)
 
-#### 3.绝对定位
+### 3.绝对定位
 
 使用绝对定位的方式实现水平垂直居中。
 容器设置`position: relative`。
@@ -158,7 +158,7 @@ CSS网格在线生成器。
 
 ![img](/images/css/code/layout/10007.png)
 
-#### 4.tabel-cell实现垂直居中
+### 4.tabel-cell实现垂直居中
 
 css新增的table属性，可以让我们把普通元素，变为table元素的现实效果，通过这个特性也可以实现水平垂直居中。
 而且tabel单元格中的内容天然就是垂直居中的，只要添加一个水平居中属性就好了。
@@ -194,7 +194,7 @@ css新增的table属性，可以让我们把普通元素，变为table元素的�
 
 ![img](/images/css/code/layout/10006.png)
 
-#### 5.grid设置居中
+### 5.grid设置居中
 
 使用grid设置居中。
 给容器设置 display: grid; align-items: center; justify-content: center;
@@ -224,7 +224,7 @@ css新增的table属性，可以让我们把普通元素，变为table元素的�
 
 ![img](/images/css/code/layout/10005.png)
 
-#### 6.grid给子项设置
+### 6.grid给子项设置
 
 使用grid时还能通过给子项设置margin: auto;实现居中。给容器设置 display: grid; 子项设置 margin: auto;
 某些浏览器会不支持grid布局方式，兼容性较差，不推荐。
@@ -252,7 +252,7 @@ css新增的table属性，可以让我们把普通元素，变为table元素的�
 
 ![img](/images/css/code/layout/10004.png)
 
-#### 7.给容器加给伪元素
+### 7.给容器加给伪元素
 
 这是一种不常用的方法实现垂直居中。给容器加给伪元素，设置line-height等于容器的高度。给孩子设置display: inline-block;
 此种方式适合给文本设置水平垂直居中。
@@ -285,7 +285,7 @@ css新增的table属性，可以让我们把普通元素，变为table元素的�
 
 ![img](/images/css/code/layout/10003.png)
 
-#### 8.还有一种奇葩的方法
+### 8.还有一种奇葩的方法
 
 这个奇葩方式和第三种使用绝对定位相似，只不过需要给子元素设置 position: absolute; 设置固定宽度和高度;top、left、bottom、right都设置为0; margin设置为auto；也能实现垂直水平居中。
 
