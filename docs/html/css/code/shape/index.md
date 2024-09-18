@@ -1,4 +1,4 @@
-# 形状
+# 🍁形状
 
 ## 正方形
 
@@ -1182,3 +1182,16 @@
   margin-left: -2.5em;
 }
 ```
+
+
+
+## CSS绘制三角形的方法
+
+原文地址：https://blog.csdn.net/SqlloveSyn/article/details/127607854?spm=1001.2014.3001.5506
+
+![img](/images/css/code/shape/10001.png)
+
+
+
+
+

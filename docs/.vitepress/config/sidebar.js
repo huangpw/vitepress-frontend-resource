@@ -26,6 +26,7 @@ module.exports = {
         { text: '插件库', link: '/html/css/plugin' },
         { text: '动画库', link: '/html/css/animista' },
         { text: '阴影库', link: '/html/css/shadow' },
+        { text: '源码网站', link: '/html/css/snippet' },
       ],
     },
     {
@@ -35,23 +36,34 @@ module.exports = {
         { text: '动画', link: '/html/css/code/animation' },
         { text: '布局', link: '/html/css/code/layout' },
         { text: '形状', link: '/html/css/code/shape' },
-        { text: '加载', link: '/html/css/code/load' },
-        // { text: '圆角', link: '/html/css/code/load' },
-        { text: '源码片段', link: '/html/css/code/snippet' },
+        { text: '按钮', link: '/html/css/code/button' },
+        { text: '卡片', link: '/html/css/code/card' },
+        { text: '图标', link: '/html/css/code/icon' },
+        { text: '选项卡', link: '/html/css/code/tab' },
+        { text: '进度条', link: '/html/css/code/progress' },
+        { text: '瀑布流', link: '/html/css/code/waterfall' },
+        { text: '背景视觉差', link: '/html/css/code/background' },
+        { text: '打字机', link: '/html/css/code/typing' },
+        { text: '波纹扩散', link: '/html/css/code/ripple' },
       ],
     },
     {
       text: '组件库',
-      collapsed: false,
+      collapsed: true,
       items: [
-        { text: 'CSSUI库', link: '/html/css/cssui' },
-        // { text: 'Load组件库', link: '/html/css/cssui' },
-        // { text: 'ceshi1111', link: '/frontend/html/' },
+        { text: 'Cssui组件', link: '/html/css/cssui' },
+        { text: 'Loading加载', link: '/html/css/load' },
+        { text: 'Image图片', link: '/html/css/image' },
+        { text: 'Login登录注册', link: '/html/css/login' },
+        { text: 'Menu导航栏', link: '/html/css/menu' },
+        { text: 'Avatar头像', link: '/html/css/avatar' },
+        { text: 'Tickets优惠券', link: '/html/css/avatar' },
+        { text: 'Arc圆弧', link: '/html/css/arc' },
       ],
     },
     {
       text: '开发笔记',
-      collapsed: false,
+      collapsed: true,
       items: [
         {
           text: '1.适合收藏，100个CSS优化技巧',
@@ -75,8 +87,8 @@ module.exports = {
           link: '/html/css/note/6.CSS实现视差滚动酷炫交互动效',
         },
         {
-          text: '7.15个CSS常见错误，请一定要注意避免',
-          link: '/html/css/note/7.15个CSS常见错误，请一定要注意避免',
+          text: '7.15个CSS常见错误',
+          link: '/html/css/note/7.15个CSS常见错误',
         },
         {
           text: '8.21个超实用的CSS技巧',
@@ -98,7 +110,49 @@ module.exports = {
           text: '12.CSS伪元素创建竖线并垂直居中',
           link: '/html/css/note/12.CSS伪元素创建竖线并垂直居中',
         },
-        
+        {
+          text: '13.CSS速查表',
+          link: '/html/css/note/13.CSS速查表',
+        },
+      ],
+    },
+  ],
+  '/vue/code': [
+    {
+      text: '代码片段',
+      collapsed: false,
+      items: [{ text: '源码网站', link: '/vue/code' }],
+    },
+    {
+      text: '代码小练',
+      collapsed: false,
+      items: [
+        { text: '首页', link: '/vue/code/home' },
+        { text: '404', link: '/vue/code/404' },
+      ],
+    },
+  ],
+  '/html/tailwindcss': [
+    {
+      text: '官方网站',
+      collapsed: false,
+      items: [{ text: '官方网站', link: '/html/tailwindcss' }],
+    },
+    {
+      text: 'TailwindCSS',
+      collapsed: false,
+      items: [
+        { text: 'Html', link: '/vue/code' },
+        { text: 'Vue', link: '/vue/code' },
+        { text: 'React', link: '/vue/code' },
+      ],
+    },
+    {
+      text: '组件库',
+      collapsed: false,
+      items: [
+        { text: '首页', link: '/vue/code/home' },
+        { text: '404', link: '/vue/code/404' },
       ],
     },
   ],

@@ -1,4 +1,4 @@
-# 阴影库
+# 🍁阴影库
 
 ## Shadows Brumm 🔥
 
@@ -154,7 +154,7 @@ background-color: #9c27b0;
 
 
 
-## Box Shadows
+## Box-Shadows阴影网站
 
 简单干净的 UI 界面，通过滑动设置轻松完成好看的 CSS 阴影效果。
 
@@ -190,13 +190,20 @@ background-color: #9c27b0;
 
 
 
-## box-shadow.art
+## 🔥 box-shadow阴影网站
 
 前端开发 CSS 阴影效果生成器。
 
+**特点：**
+
+- 界面简洁易用，支持拖拽、滑动等操作；
+- 提供多种阴影类型，包括内部阴影、外部阴影、立体阴影等；
+- 可以自定义阴影属性，如颜色、大小、模糊度、位置等；
+- 支持将生成的阴影效果导出为CSS代码或PNG图片格式。
+
 - 默认语言：English
 
-- 官方文档：[在线地址](https://box-shadow.art/)
+- 官方文档：[CSS box shadow inspiration - Box Shadow (box-shadow.art)](https://box-shadow.art/)
 
 
 

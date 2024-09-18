@@ -1,4 +1,4 @@
-# 动画库
+# 🍁动画库
 
 ## Animista 🔥
 
@@ -348,8 +348,21 @@ CSS动画库为古怪的web开发人员。
 
 
 
+## CSS Archivi - minimamente
+
+- 默认语言：English
+- 官方文档：[CSS Archivi - minimamente](https://www.minimamente.com/category/css/)
+
+CSS动画库。
+
+![img](/images/css/animista/minimamente.png)
 
 
 
+## Animastore
 
-![图片](--/images/css/vivify.jpg)
+- 默认语言：中文
+- 官方文档：[前端动画库 - animastore (guowc.github.io)](http://guowc.github.io/animastore/)
+
+前端动画库。
+

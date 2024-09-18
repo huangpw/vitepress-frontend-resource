@@ -1,4 +1,4 @@
-# 动画
+# 🍁动画
 
 ## 鼠标悬浮文字阴影跳动
 
@@ -2650,4 +2650,94 @@
 
 </html>
 ```
+
+
+
+## 用一个标签实现酷炫的css动画
+
+原文地址：https://juejin.cn/post/7271969141095235603
+
+原文地址：https://juejin.cn/post/7271070291689750582
+
+![img](/images/css/code/animation/10001.gif)
+
+
+
+## 12个值得一试的 CSS 动画
+
+原文地址：https://juejin.cn/post/7223136999851196473
+
+**1.Netflix简介动画**
+
+![img](/images/css/code/animation/10002.gif)
+
+预览地址：https://codepen.io/claudio_bonfati/pen/mdryxPv
+
+**2.Bongo 猫**
+
+![img](/images/css/code/animation/10003.gif)
+
+预览地址：https://codepen.io/carolineartz/pen/qBOEzQa
+
+**3.圣诞树**
+
+![img](/images/css/code/animation/10004.gif)
+
+预览地址：https://codepen.io/chrisgannon/pen/dypvKvR
+
+**4.无限道路**
+
+![img](/images/css/code/animation/10005.gif)
+
+预览地址：https://codepen.io/al-ro/pen/xxxxgxK
+
+**5.矩阵数字雨**
+
+![img](/images/css/code/animation/10006.gif)
+
+预览地址：https://codepen.io/yuanchuan/pen/YoqWeR
+
+**6.永恒之心**
+
+![img](/images/css/code/animation/10007.gif)
+
+预览地址：https://codepen.io/yuanchuan/pen/wZJqNK
+
+**7.策马奔腾**
+
+![img](/images/css/code/animation/10008.gif)
+
+预览地址：https://codepen.io/ste-vg/pen/oKYjKV
+
+**8.冰与火之恋**
+
+![img](/images/css/code/animation/10009.gif)
+
+预览地址：https://codepen.io/al-ro/pen/BaaBage
+
+**9.四季变换**
+
+![img](/images/css/code/animation/10010.gif)
+
+预览地址：https://codepen.io/agathaco/pen/rpZoYd
+
+**10.聚能动物**
+
+![img](/images/css/code/animation/10011.gif)
+
+预览地址：https://codepen.io/ainalem/pen/dKLpBE
+
+**11.土星呼啦圈**
+
+![img](/images/css/code/animation/10012.gif)
+
+预览地址：https://codepen.io/jcoulterdesign/pen/BrdPaw
+
+**12.帕拉克斯日落**
+
+![img](/images/css/code/animation/10013.gif)
+
+预览地址：https://codepen.io/quinlo/pen/XPVmVj
+
+
 
