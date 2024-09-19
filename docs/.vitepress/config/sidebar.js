@@ -66,8 +66,8 @@ module.exports = {
       collapsed: true,
       items: [
         {
-          text: '1.适合收藏，100个CSS优化技巧',
-          link: '/html/css/note/1.适合收藏，100个CSS优化技巧',
+          text: '1.100个CSS优化技巧',
+          link: '/html/css/note/1.100个CSS优化技巧',
         },
         {
           text: '2.12个现代CSS一行升级',
@@ -113,6 +113,30 @@ module.exports = {
         {
           text: '13.CSS速查表',
           link: '/html/css/note/13.CSS速查表',
+        },
+        {
+          text: '14.CSS页面加载速度提高10倍的小技巧',
+          link: '/html/css/note/14.CSS页面加载速度提高10倍的小技巧',
+        },
+        {
+          text: '15.细数那些惊艳一时的CSS属性',
+          link: '/html/css/note/15.细数那些惊艳一时的CSS属性',
+        },
+        {
+          text: '16.8种实现垂直和水平居中元素的方法',
+          link: '/html/css/note/16.8种实现垂直和水平居中元素的方法',
+        },
+        {
+          text: '17.42种前端常用布局方案',
+          link: '/html/css/note/17.42种前端常用布局方案',
+        },
+        {
+          text: '18.5个值得你牢记的CSS图片处理技巧',
+          link: '/html/css/note/18.5个值得你牢记的CSS图片处理技巧',
+        },
+        {
+          text: '19.纯CSS自定义多行省略',
+          link: '/html/css/note/19.纯CSS自定义多行省略',
         },
       ],
     },

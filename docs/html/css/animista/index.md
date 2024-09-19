@@ -34,11 +34,11 @@ Animate.css是一个可在web项目中使用的即用型跨浏览器动画库。
 
 
 
-## Magic CSS 🔥
+## Magic Animation🔥
 
 - 默认语言：English
 
-- 官方文档：[在线地址](https://www.minimamente.com/project/magic/)
+- 官方文档：[Magic Animations CSS3 (minimamente.com)](https://www.minimamente.com/project/magic/)
 
 Magic CSS也是一个很有趣的动画库，它提供的的动画更具吸引力。 
 
@@ -365,4 +365,10 @@ CSS动画库。
 - 官方文档：[前端动画库 - animastore (guowc.github.io)](http://guowc.github.io/animastore/)
 
 前端动画库。
+
+
+
+
+
+
 
