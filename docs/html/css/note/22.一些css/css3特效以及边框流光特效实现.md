@@ -1,0 +1,130 @@
+# 22.一些css/css3特效以及边框流光特效实现
+
+![img](/images/html/css/note/022/220001.gif)
+
+> 如果你想要的更多边框特效，这里还有
+> [有趣的CSS | css-border特效（转动边框，彩虹边框，渐变边框）和css变量⇲](https://blog.csdn.net/qq_39370934/article/details/118439096)
+>
+> ![img](/images/html/css/note/022/220002.gif)
+
+参考：[传送门⇲](http://www.bootstrapmb.com/item/8304/preview)
+
+![img](/images/html/css/note/022/220003.gif)
+
+上面的效果大家f12就知道怎么做了
+
+另外还有下面这种效果。[**传送门⇲**](https://www.jq22.com/yanshi3297)
+
+![img](/images/html/css/note/022/220004.gif)
+
+另外鼠标划入特效。[**传送门**](https://www.jb51.net/css/440762.html)
+
+- [在线预览](http://demo.jb51.net/js/2016/button-border(jb51.net)/)
+- [源码下载](https://dxz5.jb51.net/201603/yuanma/button-border(jb51.net).rar)
+
+![img](/images/html/css/note/022/220005.gif)
+
+![img](/images/html/css/note/022/220006.gif)
+
+```html
+<li v-for="(item,index) in indoorParams" :key="index">
+    //其他代码。。。
+    <div class="animate-border">
+        <i></i>
+        <i></i>
+    </div>
+</li>
+```
+
+```css
+<style lang="scss">
+ol li{
+    /* border: 1px solid rgba(32,254,255,.3); */
+    /* 宽高和相对定位是一定要给的,因为这会影响.animate-border子元素的定位 */
+    position: relative;
+    width: 3rem;
+    height: 5rem;
+    overflow: hidden;
+    /* 利用伪元素和两个i元素产生4条线 */
+    .animate-border{
+        position: absolute;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        &::before, &::after{
+            content: "";
+            position: absolute;
+            width: 100%;
+            height: 1px;
+        }
+        i {
+            position: absolute;
+            display: inline-block;
+            height: 100%;
+            width: 1px;
+        }
+        &::before{
+            top: 0;
+            left: -100%;
+            background-image: linear-gradient(90deg,transparent,#03e9f4);
+            /* name  duration timing-function delay iteration-count diraction */
+            animation: one 4s linear infinite;
+        }
+        i:nth-child(1){
+            top: -100%;
+            right: 0;
+            background-image: linear-gradient(180deg,transparent,#03e9f4);
+            animation: two 4s linear 1s infinite;
+        }
+        &::after{
+            bottom: 0;
+            right: -100%;
+            background-image: linear-gradient(-90deg,transparent,#03e9f4);
+            animation: three 4s linear 2s infinite;
+        }
+        i:nth-child(2){
+            bottom: -100%;
+            left: 0;
+            background-image: linear-gradient(360deg,transparent,#03e9f4);
+            animation: four 4s linear 3s infinite;
+        }
+    }
+}
+@keyframes one {
+    0% {
+        left: -100%;
+    }
+    50%, 100% {
+        left: 100%;
+    }
+}
+
+@keyframes two {
+    0% {
+        top: -100%;
+    }
+    50%, 100% {
+        top: 100%;
+    }
+}
+
+@keyframes three {
+    0% {
+        right: -100%;
+    }
+    50%, 100% {
+        right: 100%;
+    }
+}
+
+@keyframes four {
+    0% {
+        bottom: -100%;
+    }
+    50%, 100% {
+        bottom: 100%;
+    }
+}
+</style>
+```
+

@@ -6,8 +6,8 @@ module.exports = [
   {
     text: '🍁HTML',
     items: [
-      { text: 'Html', link: '/html' },
-      { text: 'Css', link: '/html/css' },
+      { text: 'HTML', link: '/html' },
+      { text: 'CSS', link: '/html/css' },
       { text: 'Bootstrap', link: '/html/bootstrap' },
       { text: 'Less', link: '/html/less' },
       { text: 'Sass', link: '/html/sass' },
@@ -32,7 +32,7 @@ module.exports = [
   {
     text: '🍀Vue',
     items: [
-      { text: '全家桶', link: '/vue/vuebucket' },
+      { text: '全家桶', link: '/vue' },
       { text: 'Vue2UI', link: '/vue/vue2ui' },
       { text: 'Vue3UI', link: '/vue/vue3ui' },
       { text: '代码片段', link: '/vue/code' },
@@ -46,7 +46,7 @@ module.exports = [
   {
     text: '🌲React',
     items: [
-      { text: '全家桶', link: '/html/css' },
+      { text: '全家桶', link: '/react' },
       { text: 'UI', link: '/html/css' },
       { text: '代码片段', link: '/html/javascript' },
       { text: '开源项目', link: '/html/jquery' },
@@ -57,7 +57,7 @@ module.exports = [
   {
     text: '🌳Angular',
     items: [
-      { text: '全家桶', link: '/html/css' },
+      { text: '全家桶', link: '/angular' },
       { text: 'UI', link: '/html/css' },
       { text: '代码片段', link: '/html/javascript' },
       { text: '开源项目', link: '/html/jquery' },
@@ -68,7 +68,7 @@ module.exports = [
   {
     text: '🌵Electron',
     items: [
-      { text: '全家桶', link: '/html/css' },
+      { text: '全家桶', link: '/electron' },
       { text: '代码片段', link: '/html/javascript' },
       { text: '开源项目', link: '/html/jquery' },
       { text: '学习笔记', link: '/html/three' },

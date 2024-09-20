@@ -1,24 +1,31 @@
-# 🍁Html
+# 🍁HTML
 
 ::: tip 说明
+
 本站专注于收集前端相关资源，持续更新！！！
 
-如果这些资源对你有帮助，可以给一个 star 支持下 [前端-资源库](https://github.com/huangpw/document-frontend-vitepress) ，如果您发现有 vue3 优秀的开源项目请[点此推荐](https://github.com/huangpw/document-frontend-vitepress/issues/new)
+如果这些资源对你有帮助，可以给一个 star 支持下 [前端-资源库](https://github.com/huangpw/document-frontend-vitepress) ，如果您发现有 【 **[HTML](/html) 、[Vue](/vue) 、[React](/react) 、[Angular](/angular) 、[Electron](/electron)** 】 等优秀的开源项目。请 [点此推荐](https://github.com/huangpw/document-frontend-vitepress/issues/new) 。
+
 :::
+
+
 
 ## 学习网站
 
-- MDN Web Docs：[在线地址](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
+| 网站              | 语言    | 地址                                              |
+| ----------------- | ------- | ------------------------------------------------- |
+| MDN Web Docs      | English | https://developer.mozilla.org/zh-CN/docs/Web/HTML |
+| 菜鸟教程          | 中文    | https://www.runoob.com/html/html-tutorial.html    |
+| W3School          | 中文    | https://www.w3school.com.cn/html/index.asp        |
+| 脚本之家-网页制作 | 中文    | https://www.jb51.net/web/                         |
 
-- 菜鸟教程：[在线地址](https://www.runoob.com/html/html-tutorial.html)
 
-- W3School：[在线地址](https://www.w3school.com.cn/html/index.asp)
-
-![10001](/images/html/10001.webp)
 
 ## HTML 简介
 
-### 1.什么是 HTML?
+![10001](/images/html/10001.webp)
+
+### 1.什么是HTML?
 
 HTML 是用来描述网页的一种语言。
 
@@ -31,7 +38,7 @@ HTML 是用来描述网页的一种语言。
 
 ![10002](/images/html/10002.jpeg)
 
-### 2.HTML 标签
+### 2.HTML标签
 
 HTML 标记标签通常被称为 HTML 标签 (HTML tag)。
 
@@ -42,11 +49,11 @@ HTML 标记标签通常被称为 HTML 标签 (HTML tag)。
 
 <标签>内容</标签>
 
-#### (1)HTML 标签
+#### (1)HTML标签
 
 整个网页是从 `<html>` 这里开始的，然后到 `</html>` 结束。
 
-#### (2)head 标签
+#### (2)head标签
 
 head 标签代表页面的“头”，定义一些特殊内容，这些内容往往都是“不可见内容”（在浏览器不可见）。
 
@@ -64,13 +71,13 @@ head 标签代表页面的“头”，定义一些特殊内容，这些内容往
 
 `<head>` 的内部标签也非常重要，在前期大家只需要感性认知就可以。
 
-#### (3)body 标签
+#### (3)body标签
 
 body 标签代表页面的“身”，定义网页展示内容，这些内容往往都是“可见内容”（在浏览器可见）。
 
 后续笔记讲解的标签都是在 `<body>` 标签内部的各种标签。
 
-### 3.HTML 元素
+### 3.HTML元素
 
 "HTML 标签" 和 "HTML 元素" 通常都是描述同样的意思.
 
@@ -404,7 +411,7 @@ title 属性也用于图片描述，不过这个描述文字是给用户看的�
 - class:表示样式名称
 - readonly:表示只读，用户只能看不能改 disabled:表示禁用，该元素不能改而且背景是灰色
 
-#### (1)input 标签
+#### (1)input标签
 
 大部分表单都是用[input 标签](http://www.lvyestudy.com/les_hj/hj_9.3.aspx)完成的。
 
@@ -420,7 +427,7 @@ title 属性也用于图片描述，不过这个描述文字是给用户看的�
 
 ![10007](/images/html/10007.png)
 
-#### (2)textarea 标签
+#### (2)textarea标签
 
 语法：
 
@@ -432,7 +439,7 @@ title 属性也用于图片描述，不过这个描述文字是给用户看的�
 
 ![10008](/images/html/10008.png)
 
-#### (3)select 和 option
+#### (3)select和option
 
 下拉列表由 `<select>` 标签和 `<option>` 标签配合使用。
 
@@ -449,7 +456,7 @@ title 属性也用于图片描述，不过这个描述文字是给用户看的�
 
 ![10009](/images/html/10009.png)
 
-#### (4) 按钮
+#### (4)按钮
 
 有两种形式，见下图：
 
@@ -459,7 +466,7 @@ title 属性也用于图片描述，不过这个描述文字是给用户看的�
 
 ![10011](/images/html/10011.png)
 
-#### (5)标签 label
+#### (5)标签label
 
 ![10012](/images/html/10012.png)
 
@@ -469,7 +476,7 @@ title 属性也用于图片描述，不过这个描述文字是给用户看的�
 
 ![10013](/images/html/10013.png)
 
-#### (1)Iframe - 设置高度与宽度
+#### (1)Iframe-设置高度与宽度
 
 height 和 width 属性用来定义 iframe 标签的高度与宽度。
 
@@ -483,7 +490,7 @@ height 和 width 属性用来定义 iframe 标签的高度与宽度。
 
 ![10014](/images/html/10014.png)
 
-#### (2)Iframe - 移除边框
+#### (2)Iframe-移除边框
 
 frameborder 属性用于定义 iframe 表示是否显示边框。
 
@@ -497,7 +504,7 @@ frameborder 属性用于定义 iframe 表示是否显示边框。
 
 ![10015](/images/html/10015.png)
 
-#### (3)使用 iframe 来显示目标链接页面
+#### (3)使用iframe来显示目标链接页面
 
 iframe 可以显示一个目标链接的页面
 
@@ -540,7 +547,7 @@ iframe 可以显示一个目标链接的页面
 
 ![10019](/images/html/10019.png)
 
-#### (3)SEO 三大标签
+#### (3)SEO三大标签
 
 SEO（Search Engine Optimization）：搜索引擎优化
 
@@ -579,6 +586,6 @@ SEO（Search Engine Optimization）：搜索引擎优化
 </html>
 ```
 
-#### (4)ico 图标设置
+#### (4)ico图标设置
 
 ![10020](/images/html/10020.png)

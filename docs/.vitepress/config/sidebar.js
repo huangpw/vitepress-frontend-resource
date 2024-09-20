@@ -22,7 +22,7 @@ module.exports = {
       text: 'CSS',
       collapsed: false,
       items: [
-        { text: '基础学习', link: '/html/css' },
+        // { text: '基础学习', link: '/html/css' },
         { text: '插件库', link: '/html/css/plugin' },
         { text: '动画库', link: '/html/css/animista' },
         { text: '阴影库', link: '/html/css/shadow' },
@@ -31,7 +31,7 @@ module.exports = {
     },
     {
       text: '代码片段',
-      collapsed: false,
+      collapsed: true,
       items: [
         { text: '动画', link: '/html/css/code/animation' },
         { text: '布局', link: '/html/css/code/layout' },
@@ -138,6 +138,18 @@ module.exports = {
           text: '19.纯CSS自定义多行省略',
           link: '/html/css/note/19.纯CSS自定义多行省略',
         },
+        {
+          text: '20.13个CSS技巧',
+          link: '/html/css/note/20.13个CSS技巧',
+        },
+        {
+          text: '21.html中多个div横向排列且不换行（左右滑动）',
+          link: '/html/css/note/21.html中多个div横向排列且不换行（左右滑动）',
+        },
+        {
+          text: '22.一些css/css3特效以及边框流光特效实现',
+          link: '/html/css/note/22.一些css/css3特效以及边框流光特效实现',
+        },
       ],
     },
   ],
@@ -177,6 +189,50 @@ module.exports = {
       items: [
         { text: '首页', link: '/vue/code/home' },
         { text: '404', link: '/vue/code/404' },
+      ],
+    },
+  ],
+  '/html/unocss': [
+    {
+      text: 'UnoCSS',
+      collapsed: false,
+      items: [
+        {
+          text: 'UnoCSS',
+          link: '/html/unocss',
+        },
+      ],
+    },
+    {
+      text: '开发笔记',
+      collapsed: false,
+      items: [
+        {
+          text: '1.unocss使用px单位',
+          link: '/html/unocss/note/1.unocss使用px单位',
+        },
+      ],
+    },
+  ],
+  '/html/sass': [
+    {
+      text: 'Sass',
+      collapsed: false,
+      items: [
+        {
+          text: 'Sass',
+          link: '/html/sass',
+        },
+      ],
+    },
+    {
+      text: '开发笔记',
+      collapsed: false,
+      items: [
+        {
+          text: '1.scss缩减50%的样式代码',
+          link: '/html/sass/note/1.scss缩减一半的样式代码',
+        },
       ],
     },
   ],

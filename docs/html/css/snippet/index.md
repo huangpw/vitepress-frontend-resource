@@ -1,6 +1,16 @@
-# 🍁源码片段
+# 🍁源码网站
 
-## 🔥30 秒代码片段 — CSS 篇
+::: tip 说明
+
+本站专注于收集前端相关资源，持续更新！！！
+
+如果这些资源对你有帮助，可以给一个 star 支持下 [前端-资源库](https://github.com/huangpw/document-frontend-vitepress) ，如果您发现有 【 **[HTML](/html) 、[Vue](/vue) 、[React](/react) 、[Angular](/angular) 、[Electron](/electron)** 】 等优秀的开源项目。请 [点此推荐](https://github.com/huangpw/document-frontend-vitepress/issues/new) 。
+
+:::
+
+
+
+## 🔥30 秒代码片段-CSS篇
 
 CSS 代码片段集合包含 CSS3 的实用程序和交互式示例。它包括用于创建常用布局、样式和动画元素的现代技术，以及用于处理用户交互的片段。
 
@@ -11,7 +21,7 @@ CSS 代码片段集合包含 CSS3 的实用程序和交互式示例。它包括�
 
 
 
-## 🔥Tiny Helpers
+## 🔥Tiny Helpers-小帮手
 
 一个为 Web 开发人员提供的免费单一用途在线工具的集合。
 
@@ -22,7 +32,7 @@ CSS 代码片段集合包含 CSS3 的实用程序和交互式示例。它包括�
 
 
 
-## 🔥CodePen
+## 🔥CodePen-代码笔
 
 CodePen是一个**完全免费的前端 代码托管 服务**。
 

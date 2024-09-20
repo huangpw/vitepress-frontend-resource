@@ -1,5 +1,15 @@
 # 🍁插件库
 
+::: tip 说明
+
+本站专注于收集前端相关资源，持续更新！！！
+
+如果这些资源对你有帮助，可以给一个 star 支持下 [前端-资源库](https://github.com/huangpw/document-frontend-vitepress) ，如果您发现有 【 **[HTML](/html) 、[Vue](/vue) 、[React](/react) 、[Angular](/angular) 、[Electron](/electron)** 】 等优秀的开源项目。请 [点此推荐](https://github.com/huangpw/document-frontend-vitepress/issues/new) 。
+
+:::
+
+
+
 ## 🔥Coolbackground - 背景图片生成器
 
 背景图片生成器，制作独一无二属于你的照片，生成的照片不仅可以保存当壁纸使用，还能当幻灯皮、PPT等等。点击页面颜色，自己调节选择配色，好看又独特。
