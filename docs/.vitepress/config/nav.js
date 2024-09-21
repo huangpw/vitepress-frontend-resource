@@ -19,7 +19,7 @@ module.exports = [
   {
     text: '☘️JavaScript',
     items: [
-      { text: 'JavaScript', link: '/html/javascript' },
+      { text: 'JavaScript', link: '/javascript' },
       { text: 'jQuery', link: '/html/jquery' },
       { text: 'Node', link: '/html/css' },
       { text: 'Axios', link: '/html/javascript' },
@@ -82,6 +82,7 @@ module.exports = [
       { text: '源码库', link: '/html/css' },
       { text: '图标库', link: '/html/javascript' },
       { text: '颜色库', link: '/html/javascript' },
+      { text: '部署网站', link: '/commonly/deploy' },
       { text: '开发插件', link: '/html/jquery' },
       { text: '在线工具', link: '/html/three' },
       { text: '面试题', link: '/html/three' },

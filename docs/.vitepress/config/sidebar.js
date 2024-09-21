@@ -22,23 +22,25 @@ module.exports = {
       text: 'CSS',
       collapsed: false,
       items: [
-        // { text: '基础学习', link: '/html/css' },
+        { text: 'CSS', link: '/html/css' },
         { text: '插件库', link: '/html/css/plugin' },
         { text: '动画库', link: '/html/css/animista' },
         { text: '阴影库', link: '/html/css/shadow' },
-        { text: '源码网站', link: '/html/css/snippet' },
+        { text: '源码网站', link: '/html/css/website' },
       ],
     },
     {
       text: '代码片段',
-      collapsed: true,
+      collapsed: false,
       items: [
         { text: '动画', link: '/html/css/code/animation' },
         { text: '布局', link: '/html/css/code/layout' },
+        { text: '菜单', link: '/html/css/code/menu' },
         { text: '形状', link: '/html/css/code/shape' },
         { text: '按钮', link: '/html/css/code/button' },
         { text: '卡片', link: '/html/css/code/card' },
         { text: '图标', link: '/html/css/code/icon' },
+        { text: '表格', link: '/html/css/code/table' },
         { text: '选项卡', link: '/html/css/code/tab' },
         { text: '进度条', link: '/html/css/code/progress' },
         { text: '瀑布流', link: '/html/css/code/waterfall' },
@@ -52,13 +54,14 @@ module.exports = {
       collapsed: true,
       items: [
         { text: 'Cssui组件', link: '/html/css/cssui' },
-        { text: 'Loading加载', link: '/html/css/load' },
+        { text: 'Loading加载', link: '/html/css/cssui/load' },
         { text: 'Image图片', link: '/html/css/image' },
         { text: 'Login登录注册', link: '/html/css/login' },
         { text: 'Menu导航栏', link: '/html/css/menu' },
         { text: 'Avatar头像', link: '/html/css/avatar' },
         { text: 'Tickets优惠券', link: '/html/css/avatar' },
         { text: 'Arc圆弧', link: '/html/css/arc' },
+        { text: 'Hamburgers汉堡', link: '/html/css/cssui/hamburgers' },
       ],
     },
     {
@@ -147,9 +150,35 @@ module.exports = {
           link: '/html/css/note/21.html中多个div横向排列且不换行（左右滑动）',
         },
         {
-          text: '22.一些css/css3特效以及边框流光特效实现',
-          link: '/html/css/note/22.一些css/css3特效以及边框流光特效实现',
+          text: '22.一些css3特效以及边框流光特效实现',
+          link: '/html/css/note/22.一些css3特效以及边框流光特效实现',
         },
+        {
+          text: '23.使用css3动画的元素z-index失效解决办法',
+          link: '/html/css/note/23.使用css3动画的元素z-index失效解决办法',
+        },
+        {
+          text: '24.40个CSS布局技巧',
+          link: '/html/css/note/24.40个CSS布局技巧',
+        },
+        {
+          text: '25.@media响应式布局',
+          link: '/html/css/note/25.@media响应式布局',
+        },
+      ],
+    },
+  ],
+  '/html/bootstrap': [
+    {
+      text: 'Bootstrap',
+      collapsed: false,
+      items: [
+        { text: 'Bootstrap', link: '/html/bootstrap' },
+        { text: '开源项目', link: '/html/bootstrap/project' },
+        { text: '学习视频', link: '/html/bootstrap/video' },
+        // { text: '动画库', link: '/html/css/animista' },
+        // { text: '阴影库', link: '/html/css/shadow' },
+        // { text: '源码网站', link: '/html/css/website' },
       ],
     },
   ],
@@ -232,6 +261,62 @@ module.exports = {
         {
           text: '1.scss缩减50%的样式代码',
           link: '/html/sass/note/1.scss缩减一半的样式代码',
+        },
+      ],
+    },
+  ],
+  '/javascript': [
+    {
+      text: 'JavaScript',
+      collapsed: false,
+      items: [
+        {
+          text: 'JavaScript',
+          link: '/javascript',
+        },
+        { text: '插件库', link: '/javascript/plugin' },
+        { text: '源码网站', link: '/javascript/website' },
+      ],
+    },
+    {
+      text: '代码片段',
+      collapsed: false,
+      items: [
+        {
+          text: '图表',
+          link: '/javascript/code/chart',
+        },
+      ],
+    },
+    {
+      text: '组件库',
+      collapsed: false,
+      items: [
+        {
+          text: '图表',
+          link: '/javascript/jsui/chart',
+        },
+      ],
+    },
+    {
+      text: '开发笔记',
+      collapsed: true,
+      items: [
+        {
+          text: '1.JS中把时间转换成星期几',
+          link: '/javascript/note/1.JS中把时间转换成星期几',
+        },
+      ],
+    },
+  ],
+  '/commonly/deploy': [
+    {
+      text: '开发笔记',
+      collapsed: false,
+      items: [
+        {
+          text: '如何将网站代码部署到netlify上免费托管',
+          link: '/commonly/deploy/如何将网站代码部署到netlify上免费托管',
         },
       ],
     },

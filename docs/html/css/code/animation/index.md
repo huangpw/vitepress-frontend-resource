@@ -2663,91 +2663,770 @@
 
 
 
-## 用一个标签实现酷炫的css动画
+## 用一个标签实现酷炫的CSS动画
 
 原文地址：https://juejin.cn/post/7271969141095235603
 
 原文地址：https://juejin.cn/post/7271070291689750582
 
-![img](/images/css/code/animation/10001.gif)
+![img](/images/html/css/code/animation/10001.gif)
 
 
 
-## 12个值得一试的 CSS 动画
+## 12个值得一试的CSS动画
 
 原文地址：https://juejin.cn/post/7223136999851196473
 
 **1.Netflix简介动画**
 
-![img](/images/css/code/animation/10002.gif)
+![img](/images/html/css/code/animation/10002.gif)
 
 预览地址：https://codepen.io/claudio_bonfati/pen/mdryxPv
 
 **2.Bongo 猫**
 
-![img](/images/css/code/animation/10003.gif)
+![img](/images/html/css/code/animation/10003.gif)
 
 预览地址：https://codepen.io/carolineartz/pen/qBOEzQa
 
 **3.圣诞树**
 
-![img](/images/css/code/animation/10004.gif)
+![img](/images/html/css/code/animation/10004.gif)
 
 预览地址：https://codepen.io/chrisgannon/pen/dypvKvR
 
 **4.无限道路**
 
-![img](/images/css/code/animation/10005.gif)
+![img](/images/html/css/code/animation/10005.gif)
 
 预览地址：https://codepen.io/al-ro/pen/xxxxgxK
 
 **5.矩阵数字雨**
 
-![img](/images/css/code/animation/10006.gif)
+![img](/images/html/css/code/animation/10006.gif)
 
 预览地址：https://codepen.io/yuanchuan/pen/YoqWeR
 
 **6.永恒之心**
 
-![img](/images/css/code/animation/10007.gif)
+![img](/images/html/css/code/animation/10007.gif)
 
 预览地址：https://codepen.io/yuanchuan/pen/wZJqNK
 
 **7.策马奔腾**
 
-![img](/images/css/code/animation/10008.gif)
+![img](/images/html/css/code/animation/10008.gif)
 
 预览地址：https://codepen.io/ste-vg/pen/oKYjKV
 
 **8.冰与火之恋**
 
-![img](/images/css/code/animation/10009.gif)
+![img](/images/html/css/code/animation/10009.gif)
 
 预览地址：https://codepen.io/al-ro/pen/BaaBage
 
 **9.四季变换**
 
-![img](/images/css/code/animation/10010.gif)
+![img](/images/html/css/code/animation/10010.gif)
 
 预览地址：https://codepen.io/agathaco/pen/rpZoYd
 
 **10.聚能动物**
 
-![img](/images/css/code/animation/10011.gif)
+![img](/images/html/css/code/animation/10011.gif)
 
 预览地址：https://codepen.io/ainalem/pen/dKLpBE
 
 **11.土星呼啦圈**
 
-![img](/images/css/code/animation/10012.gif)
+![img](/images/html/css/code/animation/10012.gif)
 
 预览地址：https://codepen.io/jcoulterdesign/pen/BrdPaw
 
 **12.帕拉克斯日落**
 
-![img](/images/css/code/animation/10013.gif)
+![img](/images/html/css/code/animation/10013.gif)
 
 预览地址：https://codepen.io/quinlo/pen/XPVmVj
 
 
 
+## CSS实现10种鼠标移入按钮动效
+
+**html代码**
+
+```html
+<!DOCTYPE <!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>按钮背景动画</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="index.css" />
+</head>
+
+<body>
+    <div class="box">
+        <div class="title">鼠标移入按钮多种动效</div>
+        <div class="btn-list">
+            <ul>
+                <li>
+                    <a class="btn btn1" href="javascript:;"><span>鼠标移入</span>
+                        <div class="btnbg"></div>
+                    </a>
+                    <a class="btn btn2" href="javascript:;"><span>鼠标移入</span>
+                        <div class="btnbg"></div>
+                    </a>
+                    <a class="btn btn3" href="javascript:;"><span>鼠标移入</span>
+                        <div class="btnbg"></div>
+                    </a>
+                    <a class="btn btn4" href="javascript:;">
+                        <span>鼠标移入</span>
+                        <div class="btnbg1"></div>
+                        <div class="btnbg2"></div>
+                        <div class="btnbg3"></div>
+                        <div class="btnbg4"></div>
+                    </a>
+                    <a class="btn btn5" href="javascript:;">
+                        <span>鼠标移入</span>
+                        <div class="btnbg1"></div>
+                        <div class="btnbg2"></div>
+                    </a>
+                    <a class="btn btn6" href="javascript:;">
+                        <span>鼠标移入</span>
+                        <div class="btnbg1"></div>
+                        <div class="btnbg2"></div>
+                        <div class="btnbg3"></div>
+                        <div class="btnbg4"></div>
+                    </a>
+                    <a class="btn btn7" href="javascript:;">
+                        <span>鼠标移入</span>
+                        <div class="btnbg1"></div>
+                        <div class="btnbg2"></div>
+                    </a>
+                    <a class="btn btn8" href="javascript:;">
+                        <span>鼠标移入</span>
+                        <div class="btnbg1"></div>
+                        <div class="btnbg2"></div>
+                    </a>
+                    <a class="btn btn9" href="javascript:;">
+                        <span>鼠标移入</span>
+                        <div class="btnbg1"></div>
+                        <div class="btnbg2"></div>
+                        <div class="btnbg3"></div>
+                        <div class="btnbg4"></div>
+                    </a>
+                    <a class="btn btn10" href="javascript:;"><span>鼠标移入</span>
+                        <div class="btnbg"></div>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</body>
+
+</html>
+```
+
+**css代码**
+
+```css
+*{
+    margin: 0;
+    padding: 0;
+}
+ul, li{
+    list-style: none;
+}
+a{
+    color: #ccc;
+    text-decoration: none;
+}
+.box{
+    background: #30303c;
+    width: 100%;
+    height: 100%;
+}
+.title{
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px 0;
+}
+.btn-list{
+    margin: 50px auto;
+    width: 800px;
+}
+
+.btn{
+    padding: 10px 40px;
+    font-size: 14px;
+    overflow: hidden;
+    display: inline-block;
+    margin: 7px;
+}
+
+/* 1 */
+.btn1{
+    border: 1px solid #ccc;
+    position: relative; /* 相对 */
+    transition: all 0.5s; /* 过度 */
+    -moz-transition: all 0.5s; /* Firefox */
+    -webkit-transition: all 0.5s; /* Safari 和 Chrome */
+}
+.btn1 .btnbg{
+    position: absolute; /* 绝对 */
+    left: 50%;
+    width: 0;
+    top: 0;
+    bottom: 0;
+    transition: all 0.5s; /* 过度 */
+    -moz-transition: all 0.5s; /* Firefox */
+    -webkit-transition: all 0.5s; /* Safari 和 Chrome */
+    background: #f55336;
+}
+.btn1:hover{
+    border-color: #f55336;
+    color: #fff;
+}
+.btn1:hover .btnbg{
+    width: 100%;
+    left: 0;
+}
+.btn1 span{
+    position: relative;
+    z-index: 1;
+}
+
+/* 2 */
+.btn2{
+    /* transform 属性向元素应用 2D 或 3D 转换。该属性允许我们对元素进行旋转、缩放、移动或倾斜 */
+    /* translateZ(z) 定义 3D 转换，只是用 Z 轴的值 */
+    /* perspective(n) 为 3D 转换元素定义透视视图 */
+    transform: perspective(1px) translateZ(0);
+    -webkit-transform: perspective(1px) translateZ(0);
+    /* transition-property 属性规定应用过渡效果的 CSS 属性的名称 */
+    transition-property: color;
+    -webkit-transition-property: color;
+    transition-duration: 0.5s; /* 过渡效果持续多长时间 */
+    -webkit-transition-duration: 0.5s;
+    border: 1px solid #ccc;
+    position: relative; /* 相对 */
+}
+.btn2:hover{
+    border-color: #ffca28;
+    color: #fff;
+}
+.btn2 .btnbg{
+    background: #ffca28;
+    position: absolute;
+    z-index: -1;
+    top: -1px;
+    left: -1px;
+    right: -1px;
+    bottom: -1px;
+    /* 通过设置 X 轴的值来定义缩放转换 */
+    transform: scaleX(0);
+    -webkit-transform: scaleX(0);
+    /* 允许改变被转换元素的位置 */
+    transform-origin: 0 50%;
+    -webkit-transform-origin: 0 50%;
+    /* 过渡效果持续 */
+    transition-duration: 0.5s;
+    -webkit-transition-duration: 0.5s;
+    /* 规定过渡效果的速度曲线 */
+    /* ease-out 以慢速结束的过渡效果（等于 cubic-bezier(0,0,0.58,1)） */
+    transition-timing-function: ease-out;
+    -webkit-transition-timing-function: ease-out;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+.btn2:hover .btnbg{
+    /* 规定过渡效果的速度曲线 */
+    /* ease-out 以慢速结束的过渡效果（等于 cubic-bezier(0,0,0.58,1)） */
+    transition-timing-function: cubic-bezier(0.52,1.64,0.37,0.66);
+    -webkit-transition-timing-function: cubic-bezier(0.52,1.64,0.37,0.66);
+    /* scaleX 表示水平方向缩放的倍数 */
+    transform: scaleX(1);
+    -webkit-transform: scaleX(1);
+    opacity: 1;
+    filter: alpha(opacity=100);
+}
+
+/* 3 */
+.btn3{
+    border: 1px solid #ccc;
+    position: relative; /* 相对 */
+    transition: border-color .3s, color .3s;
+    -webkit-transition: border-color .3s, color .3s;
+    /* 规定过渡效果的速度曲线 */
+    transition-timing-function: cubic-bezier(.2,1,.3,1);
+    -webkit-transition-timing-function: cubic-bezier(.2,1,.3,1);
+}
+.btn3:hover{
+    color: #fff;
+    border-color: #d500f9;
+}
+.btn3 .btnbg{
+    background: #d500f9;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 150%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    /* 旋转 div 元素 */
+    transform: rotate3d(0,0,1,-45deg) translate3d(0,-3em,0);
+    -webkit-transform: rotate3d(0,0,1,-45deg) translate3d(0,-3em,0);
+    /* 设置旋转元素的基点位置 */
+    transform-origin: 0% 100%;
+    -webkit-transform-origin: 0% 100%;
+    transition: transform .3s, opacity .3s;
+    -webkit-transform: -webkit-transform .3s, opacity .3s;
+}
+.btn3:hover .btnbg{
+    opacity: 1;
+    filter: alpha(opacity=100);
+    /* 旋转 div 元素 */
+    transform: rotate3d(0,0,1,0deg);
+    -webkit-transform: rotate3d(0,0,1,0deg);
+    /* 规定过渡效果的速度曲线 */
+    transition-timing-function: cubic-bezier(.2,1,.3,1);
+    -webkit-transition-timing-function: cubic-bezier(.2,1,.3,1);
+}
+.btn3 span{
+    position: relative;
+    z-index: 2;
+}
+
+/* 4 */
+.btn4{
+    border: 1px solid #ccc;
+    position: relative; /* 相对 */
+    transition: all .4s;
+    -webkit-transition: all .4s;
+}
+.btn4:hover{
+    color: #fff;
+    border-color: #f06292;
+}
+.btn4 .btnbg1, .btn4 .btnbg2, .btn4 .btnbg3, .btn4 .btnbg4{
+    background: #f06292;
+    position: absolute;
+    width: 25%;
+    height: 0;
+    /* 是一个简写属性，用于设置四个过渡属性 */
+    transition: height .4s;
+    -webkit-transition: height .4s;
+}
+.btn4 .btnbg1{
+    top: 0;
+    left: 0;
+}
+.btn4 .btnbg2{
+    bottom: 0;
+    left: 25%;
+}
+.btn4 .btnbg3{
+    top: 0;
+    left: 50%;
+}
+.btn4 .btnbg4{
+    bottom: 0;
+    left: 75%;
+}
+.btn4:hover .btnbg1, .btn4:hover .btnbg2, .btn4:hover .btnbg3, .btn4:hover .btnbg4{
+    height: 100%;
+}
+.btn4 span{
+    position: relative;
+    z-index: 1;
+}
+
+/* 5 */
+.btn5{
+    border: 1px solid #ccc;
+    position: relative; /* 相对 */
+    transition: all .5s;
+    -webkit-transition: all .5s;
+}
+.btn5:hover{
+    border-color: #ff5252;
+    color: #fff;
+}
+.btn5 .btnbg1, .btn5 .btnbg2{
+    content: '';
+    width: 0;
+    height: 0;
+    /* 属性向元素应用 2D 或 3D 转换。该属性允许我们对元素进行旋转、缩放、移动或倾斜 */
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    border-style: solid;
+    border-width: 0;
+    /* transparent 用来指定全透明色彩 */
+    border-top-color: transparent;
+    border-bottom-color: transparent;
+    position: absolute;
+    /* 过渡 */
+    transition: all 0.6s;
+    -webkit-transition: all 0.6s;
+}
+.btn5 .btnbg1{
+    border-right-color: transparent;
+    border-left-color: #ff5252;
+    bottom: 0;
+    left: 0;
+}
+.btn5 .btnbg2{
+    /* transparent 用来指定全透明色彩 */
+    border-left-color: transparent; 
+    border-right-color: #ff5252;
+    top: 0;
+    right: 0;
+}
+.btn5:hover .btnbg1{
+    border-width: 200px 0 0 200px;
+}
+.btn5:hover .btnbg2{
+    border-width: 0 200px 200px 0;
+}
+.btn5 span{
+    position: relative;
+    z-index: 1;
+}
+
+/* 6 */
+.btn6{
+    border: 1px solid #ccc;
+    position: relative; /* 相对 */
+    /* transition过渡 */
+    transition: all .6s;
+    -webkit-transition: all .6s;
+}
+.btn6:hover{
+    border-color: #40c4ff;
+    color: #fff;
+}
+.btn6 .btnbg1, .btn6 .btnbg2, .btn6 .btnbg3, .btn6 .btnbg4{
+    content: '';
+    width: 0;
+    height: 0;
+    /* 旋转 div 元素 */
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    border-style: solid;
+    border-width: 0;
+    position: absolute;
+    transition: all 0.6s;
+    -webkit-transition: all 0.6s;
+}
+.btn6 .btnbg1{
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: #40c4ff;
+    bottom: 0;
+    left: 0;
+}
+.btn6 .btnbg2{
+    border-top-color: #40c4ff;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+    top: 0;
+    left: 0;
+}
+.btn6 .btnbg3{
+    border-top-color: transparent;
+    border-right-color: #40c4ff;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+    top: 0;
+    right: 0;
+}
+.btn6 .btnbg4{
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: #40c4ff;
+    border-left-color: transparent;
+    bottom: 0;
+    right: 0;
+}
+.btn6:hover .btnbg1{
+    border-width: 200px 0 0 200px;
+}
+.btn6:hover .btnbg2{
+    border-width: 200px 200px 0 0;
+}
+.btn6:hover .btnbg3{
+    border-width: 0 200px 200px 0;
+}
+.btn6:hover .btnbg4{
+    border-width: 0 0 200px 200px;
+}
+.btn6 span{
+    position: relative;
+    z-index: 1;
+}
+
+/* 7 */
+.btn7{
+    border: 1px solid #ccc;
+    position: relative; /* 相对 */
+    transition: all .6s;
+    -webkit-transition: all .6s;
+}
+.btn7:hover{
+    border-color: #00e676;
+    color: #fff;
+}
+.btn7 .btnbg1, .btn7 .btnbg2{
+    background: #00e676;
+    position: absolute;
+    top: 50%;
+    top:0/9;
+    content: '';
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    transition: all .6s;
+    -webkit-transition: all .6s;
+    opacity: 0.5;
+}
+.btn7 .btnbg1{
+    left: -20px;
+    /* translate(-50%,-50%) 作用是，往上（x轴）,左（y轴）移动自身长宽的 50%，以使其居于中心位置 */
+    transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+}
+.btn7 .btnbg2{
+    right: -20px;
+    transform: translate(50%,-50%);
+    -webkit-transform: translate(50%,-50%);
+}
+.btn7:hover .btnbg1{
+    opacity: 1;
+    animation: criss-cross-left .9s both;
+    -webkit-animation: criss-cross-left .9s both;
+    width: 375px/9;
+    height: 375px/9;
+}
+.btn7:hover .btnbg2{
+    opacity: 1;
+    animation: criss-cross-right .9s both;
+    -webkit-animation: criss-cross-right .9s both;
+    width: 375px/9;
+    height: 375px/9;
+}
+.btn7 span{
+    position: relative;
+    z-index: 1;
+}
+@keyframes criss-cross-left{
+    0%{
+        left: -20px;
+    }
+    50%{
+        left: 50%;
+        width: 20px;
+        height: 20px;
+    }
+    100%{
+        left: 50%;
+        width: 375px;
+        height: 375px;
+    }
+}
+@-webkit-keyframes criss-cross-left{
+    0%{
+        left: -20px;
+    }
+    50%{
+        left: 50%;
+        width: 20px;
+        height: 20px;
+    }
+    100%{
+        left: 50%;
+        width: 375px;
+        height: 375px;
+    }
+}
+@keyframes criss-cross-right{
+    0%{
+        right: -20px;
+    }
+    50%{
+        right: 50%;
+        width: 20px;
+        height: 20px;
+    }
+    100%{
+        right: 50%;
+        width: 375px;
+        height: 375px;
+    }
+}
+@-webkit-keyframes criss-cross-right{
+    0%{
+        right: -20px;
+    }
+    50%{
+        right: 50%;
+        width: 20px;
+        height: 20px;
+    }
+    100%{
+        right: 50%;
+        width: 375px;
+        height: 375px;
+    }
+}
+
+/* 8 */
+.btn8{
+    border: 1px solid #ccc;
+    position: relative; /* 相对 */
+    transition: all .6s;
+    -webkit-transition: all .6s;
+}
+.btn8:hover{
+    border-color: #009688;
+    color: #fff;
+}
+.btn8 .btnbg1, .btn8 .btnbg2{
+    content: '';
+    width: 0;
+    height: 0;
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    border-style: solid;
+    border-width: 0;
+    border-top-color: transparent;
+    border-bottom-color: transparent;
+    background: #009688;
+    position: absolute;
+    transition: all .6s;
+    -webkit-transition: all .6s;
+}
+.btn8 .btnbg1{
+    border-right-color: transparent;
+    border-left-color: #009688;
+    bottom: 0;
+    left: 0;
+}
+.btn8 .btnbg2{
+    border-right-color:#009688;
+    border-left-color: transparent;
+    top: 0;
+    right: 0;
+}
+.btn8:hover .btnbg1{
+    border-width: 50px 260px;
+}
+.btn8:hover .btnbg2{
+    border-width: 50px 260px;
+}
+.btn8 span{
+    position: relative;
+    z-index: 1;
+}
+
+/* 9 */
+.btn9{
+    border: 1px solid #ccc;
+    position: relative; /* 相对 */
+    transition: all .6s;
+    -webkit-transition: all .6s;
+}
+.btn9:hover{
+    border-color: #2979ff;
+    color: #fff;
+}
+.btn9 .btnbg1, .btn9 .btnbg2, .btn9 .btnbg3, .btn9 .btnbg4{
+    background: #2979ff;
+    position: absolute;
+    top: 0;
+    width: 0;
+    height: 100%;
+    transition: all .4s;
+    -webkit-transition: all .4s;
+    opacity: 0.35;
+}
+.btn9 .btnbg3, .btn9 .btnbg4{
+    opacity: 0.75;
+}
+.btn9 .btnbg1{
+    left: 0;
+}
+.btn9 .btnbg2{
+    right: 0;
+}
+.btn9 .btnbg3{
+    right: 0;
+}
+.btn9 .btnbg4{
+    left: 0;
+}
+.btn9:hover .btnbg1, .btn9:hover .btnbg2, .btn9:hover .btnbg3, .btn9:hover .btnbg4{
+    width: 100%;
+}
+.btn9:hover .btnbg3, .btn9:hover .btnbg4{
+    /* 过渡效果开始前等待 0.4 秒 */
+    transition-delay: .4s;
+    -webkit-transition-delay: .4s;
+}
+.btn9 span{
+    position: relative;
+    z-index: 1;
+}
+/* 10 */
+.btn10{
+    border: 1px solid #ccc;
+    position: relative; /* 相对 */
+    transition: all .6s;
+    -webkit-transition: all .6s;
+}
+.btn10:hover{
+    border-color: #00e5ff;
+    color: #fff;
+}
+.btn10 .btnbg{
+    background: #00e5ff;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-radius: 50%;
+    /* translate(-50%,-50%) 作用是，往上（x轴）,左（y轴）移动自身长宽的 50%，以使其居于中心位置 */
+    transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transition: width .6s,height .6s;
+    -webkit-transition: width .6s,height .6s;
+    left: 0;
+    top: 0;
+}
+.btn10:hover .btnbg{
+    width: 600px;
+    height: 600px;
+}
+.btn10 span{
+    position: relative;
+    z-index: 1;
+}
+```
+
+
+
+## HTML5 WebGL 3D樱花飘落动画
+
+- 原文链接：[在线地址](https://www.html5tricks.com/html5-webgl-sakura-animation.html)
+
+- 源码链接：[在线地址](https://www.html5tricks.com/download/pure-css-accordion-menu.rar)
+
+- 在线演示：[在线地址](https://www.html5tricks.com/demo/pure-css-accordion-menu/index.html)
+
+![img](/images/html/css/code/animation/html5-webgl-sakura-animation.png)

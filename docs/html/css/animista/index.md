@@ -18,7 +18,7 @@
 
 Animista是一个在线动画生成器，在线生成 css 动画。
 
-![img](/images/css/animista.gif)
+![img](/images/html/css/animista/animista.gif)
 
 
 
@@ -40,7 +40,7 @@ Animate.css是一个可在web项目中使用的即用型跨浏览器动画库。
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/> 
 ```
 
-![img](/images/css/animate.css.gif)
+![img](/images/html/css/animista/animate.css.gif)
 
 
 
@@ -54,7 +54,7 @@ Magic CSS也是一个很有趣的动画库，它提供的的动画更具吸引�
 
 使用`npm i magic.css`安装。
 
-![img](/images/css/magic.css.gif)
+![img](/images/html/css/animista/magic.css.gif)
 
 
 
@@ -72,7 +72,7 @@ CSS Shake是一个使用CSS3实现的动画样式，使用SASS编写，利用它
 <link rel="stylesheet" type="text/css" href="https://csshake.surge.sh/csshake.min.css">
 ```
 
-![img](/images/css/csshake.gif)
+![img](/images/html/css/animista/csshake.gif)
 
 
 
@@ -88,7 +88,7 @@ Hover.css 是一个基于 CSS3 的动画库，专门用于创建图像悬停效�
 <link href="css/hover-min.css" rel="stylesheet">
 ```
 
-![img](/images/css/hover.css.gif)
+![img](/images/html/css/animista/hover.css.gif)
 
 
 
@@ -100,7 +100,7 @@ Hover.css 是一个基于 CSS3 的动画库，专门用于创建图像悬停效�
 
 Loaders.css 是一个轻量级的 CSS3 动画库，专门用于创建加载动画和进度条效果，提供了多种简单易用的设计。使用 Loaders.css 可以为页面的加载过程增加一些生动有趣的元素，降低用户等待时的焦虑感。
 
-![Loaders.css](/images/css/loaders.png)
+![Loaders.css](/images/html/css/animista/loaders.png)
 
 
 
@@ -112,7 +112,7 @@ Loaders.css 是一个轻量级的 CSS3 动画库，专门用于创建加载动�
 
 可以把Animation library当作是Animate.css的替代方案。
 
-![图片](/images/css/animation_library.png)
+![图片](/images/html/css/animista/animation_library.png)
 
 
 
@@ -124,7 +124,7 @@ Loaders.css 是一个轻量级的 CSS3 动画库，专门用于创建加载动�
 
 Loading.io是一个平台，允许你自定义丰富的加载动画集合，并将创作导出为CSS关键帧动画、GIF、SVG或PNG文件。
 
-![图片](/images/css/loading.io.png)
+![图片](/images/html/css/animista/loading.io.png)
 
 
 
@@ -136,7 +136,7 @@ Loading.io是一个平台，允许你自定义丰富的加载动画集合，并�
 
 Skeleton loaders也可以归类为预装载器。但是，与典型的加载器不同，Skeleton loaders在灰色块中模拟加载内容的结构和外观，并指示每个块中加载的内容类型，例如图像、文本等。
 
-![图片](/images/css/skeleton_elements.png)
+![图片](/images/html/css/animista/skeleton_elements.png)
 
 
 
@@ -148,7 +148,7 @@ Skeleton loaders也可以归类为预装载器。但是，与典型的加载器�
 
 Animxyz是一个易于使用的CSS交互动画库，允许通过属性进行自定义。你可以从各种动画选项中进行选择，并轻松与其他JavaScript框架，包括React和Vue集成。
 
-![图片](/images/css/animxyz.png)
+![图片](/images/html/css/animista/animxyz.png)
 
 
 
@@ -164,7 +164,7 @@ Vivify.css是一款带68种动画效果的CSS3动画库。
 <link href="vivify.min.css" rel="stylesheet" type="text/css"/>
 ```
 
-![图片](/images/css/vivify.jpg)
+![图片](/images/html/css/animista/vivify.jpg)
 
 
 
@@ -176,7 +176,7 @@ Vivify.css是一款带68种动画效果的CSS3动画库。
 
 cssanimation.io是一大堆不同动画的集合，总共大概有200个，这很强大。
 
-![图片](/images/css/vivify.jpg)
+![图片](/images/html/css/animista/vivify.jpg)
 
 
 
@@ -282,13 +282,19 @@ Motion UI是一个Sass库，用于快速创建CSS过渡和动画。使用npm安�
 
 
 
-## Wait Animate 🔥
+## Wait Animate-等待动画生成器 🔥
+
+WAIT! Animate在给定等待时间的情况下，会计算更新的关键帧百分比，这意味着你可以使用纯CSS在每个动画迭代之间插入延迟，而无需使用JavaScript。
 
 - 默认语言：English
 
 - 官方文档：[在线地址](https://waitanimate.wstone.io/)
 
-WAIT! Animate在给定等待时间的情况下，会计算更新的关键帧百分比，这意味着你可以使用纯CSS在每个动画迭代之间插入延迟，而无需使用JavaScript。
+特点：
+
+- 便于使用
+
+![img](/images/html/css/animista/a20001.webp)
 
 
 
@@ -310,7 +316,7 @@ WAIT! Animate在给定等待时间的情况下，会计算更新的关键帧百�
 
 Izmir是一个迷你CSS库，允许您快速创建美丽的图像悬停元素。
 
-![图片](/images/css/izmir-hover-effects.gif)
+![图片](/images/html/css/animista/izmir-hover-effects.gif)
 
 
 
@@ -321,7 +327,7 @@ Izmir是一个迷你CSS库，允许您快速创建美丽的图像悬停元素。
 
 Catto-CSS是一个在线CSS动画库，它简化了向网站或Web应用程序添加动画的过程。它允许开发人员使用源代码，而无需安装任何依赖项，使其成为Web项目的方便工具。Catto-CSS支持广泛的动画。其中包括悬停、自动、无限和滚动动画。
 
-![图片](/images/css/catto-css.png)
+![图片](/images/html/css/animista/catto-css.png)
 
 
 
@@ -332,29 +338,34 @@ Catto-CSS是一个在线CSS动画库，它简化了向网站或Web应用程序�
 
 CSS动画库为古怪的web开发人员。
 
-![图片](/images/css/woah.css.gif)
+![图片](/images/html/css/animista/woah.css.gif)
 
 
 
 ## Mimic.css
 
 - 默认语言：English
-- 官方文档：[在线地址](https://www.transition.style/) | [Github](https://github.com/erictreacy/mimic.css)
+- 官方文档：[在线地址](https://erictreacy.github.io/mimic.css/) | [Github](https://github.com/erictreacy/mimic.css)
 
 复制粘贴过渡动画。
 
-![图片](/images/css/animista/mimic.css.gif)
+![图片](/images/html/css/animista/mimic.css.gif)
 
 
 
-## Transition.Style 🔥
+## Transition.Style-过渡动画生成器 🔥
+
+复制粘贴过渡动画。
 
 - 默认语言：English
 - 官方文档：[在线地址](https://www.transition.style/) | [Github](https://github.com/argyleink/transition.css)
 
-复制粘贴过渡动画。
+特点：
 
-![图片](/images/css/animista/10001.gif)
+- 高度可定制
+- 有状态的可共享链接
+
+![图片](/images/html/css/animista/10001.gif)
 
 
 
@@ -365,11 +376,11 @@ CSS动画库为古怪的web开发人员。
 
 CSS动画库。
 
-![img](/images/css/animista/minimamente.png)
+![img](/images/html/css/animista/minimamente.png)
 
 
 
-## Animastore
+## 前端动画库-Animastore
 
 - 默认语言：中文
 - 官方文档：[前端动画库 - animastore (guowc.github.io)](http://guowc.github.io/animastore/)

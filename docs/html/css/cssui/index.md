@@ -123,7 +123,15 @@ Milligram只需要最少的样式设置就可以快速又干净地启动开发�
 
 Spectre.css CSS框架是一款轻量级、响应式和现代化的CSS框架，用于更快和可扩展的开发。Spectre涵盖了Bootstrap期望的所有基本CSS，例如按钮、表单、图标等。
 
-![img](/images/html/css/cssui/10003.webp)
+![img](/images/html/css/cssui/SPECTRE-CSS-tutorial.png)
 
 
 
+## Boomerang UI Kit
+
+基于Webpixels为您带来的众所周知的Bootstrap 4框架的免费HTML UI Kit
+
+- 默认语言：English
+- 官方文档：[Boomerang UI Kit](https://preview.webpixels.io/boomerang-free-bootstrap-ui-kit/)
+
+![img](/images/html/css/cssui/10005.png)
