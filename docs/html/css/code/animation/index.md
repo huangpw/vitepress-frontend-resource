@@ -3430,3 +3430,26 @@ a{
 - 在线演示：[在线地址](https://www.html5tricks.com/demo/pure-css-accordion-menu/index.html)
 
 ![img](/images/html/css/code/animation/html5-webgl-sakura-animation.png)
+
+
+
+## hover动画效果合集
+
+- 默认语言：English
+- 源码地址：https://codepen.io/MoYu1991/pen/avgKxV
+- 演示地址：https://codepen.io/MoYu1991/pen/avgKxV
+
+![img](/images/html/css/code/animation/10014.png)
+
+
+
+##  聚焦光标文本
+
+- 源码地址：[在线地址](https://codepen.io/carolineartz/pen/rNaGQYo)
+
+- 演示地址：[在线地址](https://codepen.io/carolineartz/pen/rNaGQYo)
+
+![img](/images/html/css/code/animation/10015.png)
+
+
+

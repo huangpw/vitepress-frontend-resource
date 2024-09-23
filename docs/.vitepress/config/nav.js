@@ -9,6 +9,7 @@ module.exports = [
       { text: 'HTML', link: '/html' },
       { text: 'CSS', link: '/html/css' },
       { text: 'Bootstrap', link: '/html/bootstrap' },
+      { text: 'LayUI', link: '/html/layui' },
       { text: 'Less', link: '/html/less' },
       { text: 'Sass', link: '/html/sass' },
       { text: 'UnoCSS', link: '/html/unocss' },

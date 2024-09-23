@@ -46,3 +46,37 @@ Bootswatch是一款基于 Bootstrap 的免费主题包，其中包含了丰富�
 - 持续更新中。更新和维护是一款优秀开源软件的标志。
 
 ![img](/images/html/bootstrap/bootswatch.png)
+
+
+
+## Tabler
+
+Tabler 是一个基于 Bootstrap 构建的免费开源 HTML 仪表盘 UI 套件。
+
+Tabler 提供了一套现代化、响应式的用户界面组件。
+
+Tabler 主要面向开发人员和设计师，旨在帮助他们快速构建具有吸引力和功能性的管理界面。
+
+Tabler 是完全响应式的，与所有现代浏览器兼容，可以帮助我们创建一个用户会喜欢的界面。
+
+- 默认语言：English
+- 官方文档：[Tabler](https://tabler.io/admin-template)
+- 仓库地址：[GitHub - tabler/tabler](https://github.com/tabler/tabler)
+
+![img](/images/html/bootstrap/10002.png)
+
+![img](/images/html/bootstrap/10003.png)
+
+![img](/images/html/bootstrap/10004.png)
+
+Tabler 项目特点：
+
+- **现代化设计：** Tabler 采用现代化的设计语言，提供清晰、直观的用户界面，使得管理面板看起来更加专业和美观。
+- **响应式布局：** UI 框架具备响应式设计，适应不同屏幕尺寸和设备，确保在各种环境下都能提供良好的用户体验。
+- **模块化组件：** 提供一系列模块化的UI组件，如表格、图表、卡片、表单等，使开发者能够快速构建丰富功能的管理界面。
+- **主题定制：** 用户可以通过自定义主题来调整界面的外观，以满足特定项目或品牌的需求。
+- **内置样式和图标：** Tabler集成了一组内置的样式和图标，使得用户能够方便地使用它们来提升界面的视觉吸引力。
+- **开源：** 作为 GitHub 上的开源项目，Tabler 允许用户查看源代码、提出问题、提交贡献，从而促进社区合作和不断改进。
+
+
+

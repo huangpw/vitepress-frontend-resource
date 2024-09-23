@@ -162,8 +162,8 @@ module.exports = {
           link: '/html/css/note/24.40个CSS布局技巧',
         },
         {
-          text: '25.@media响应式布局',
-          link: '/html/css/note/25.@media响应式布局',
+          text: '25.HTML实用小技巧',
+          link: '/html/css/note/25.HTML实用小技巧',
         },
       ],
     },
@@ -182,18 +182,29 @@ module.exports = {
       ],
     },
   ],
-  '/vue/code': [
+  '/html/layui': [
+    {
+      text: 'LayUI',
+      collapsed: false,
+      items: [
+        { text: 'LayUI', link: '/html/layui' },
+        { text: '开源项目', link: '/html/layui/project' },
+        { text: '学习视频', link: '/html/layui/video' },
+        // { text: '动画库', link: '/html/css/animista' },
+        // { text: '阴影库', link: '/html/css/shadow' },
+        // { text: '源码网站', link: '/html/css/website' },
+      ],
+    },
     {
       text: '代码片段',
       collapsed: false,
-      items: [{ text: '源码网站', link: '/vue/code' }],
-    },
-    {
-      text: '代码小练',
-      collapsed: false,
       items: [
-        { text: '首页', link: '/vue/code/home' },
-        { text: '404', link: '/vue/code/404' },
+        { text: 'LayUI', link: '/html/layui' },
+        { text: '开源项目', link: '/html/layui/project' },
+        { text: '学习视频', link: '/html/layui/video' },
+        // { text: '动画库', link: '/html/css/animista' },
+        // { text: '阴影库', link: '/html/css/shadow' },
+        // { text: '源码网站', link: '/html/css/website' },
       ],
     },
   ],
@@ -274,6 +285,7 @@ module.exports = {
           text: 'JavaScript',
           link: '/javascript',
         },
+        { text: '开源项目', link: '/javascript/project' },
         { text: '插件库', link: '/javascript/plugin' },
         { text: '源码网站', link: '/javascript/website' },
       ],
@@ -286,6 +298,14 @@ module.exports = {
           text: '图表',
           link: '/javascript/code/chart',
         },
+        {
+          text: '3D',
+          link: '/javascript/code/3d',
+        },
+        {
+          text: '选项卡',
+          link: '/javascript/code/tab',
+        },
       ],
     },
     {
@@ -296,15 +316,31 @@ module.exports = {
           text: '图表',
           link: '/javascript/jsui/chart',
         },
+        {
+          text: '视频',
+          link: '/javascript/jsui/video',
+        },
       ],
     },
     {
       text: '开发笔记',
-      collapsed: true,
+      collapsed: false,
       items: [
         {
           text: '1.JS中把时间转换成星期几',
           link: '/javascript/note/1.JS中把时间转换成星期几',
+        },
+        {
+          text: '2.H5上滑加载和下拉刷新如何实现',
+          link: '/javascript/note/2.H5上滑加载和下拉刷新如何实现',
+        },
+        {
+          text: '3.商品加入购物车的抛物线动画',
+          link: '/javascript/note/3.商品加入购物车的抛物线动画',
+        },
+        {
+          text: '4.canvas绘制矩形的两种方式',
+          link: '/javascript/note/4.canvas绘制矩形的两种方式',
         },
       ],
     },
@@ -318,6 +354,21 @@ module.exports = {
           text: '如何将网站代码部署到netlify上免费托管',
           link: '/commonly/deploy/如何将网站代码部署到netlify上免费托管',
         },
+      ],
+    },
+  ],
+  '/vue/code': [
+    {
+      text: '代码片段',
+      collapsed: false,
+      items: [{ text: '源码网站', link: '/vue/code' }],
+    },
+    {
+      text: '代码小练',
+      collapsed: false,
+      items: [
+        { text: '首页', link: '/vue/code/home' },
+        { text: '404', link: '/vue/code/404' },
       ],
     },
   ],

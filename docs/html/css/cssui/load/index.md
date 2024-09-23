@@ -18,7 +18,7 @@
 
 - 官方文档：[在线地址](https://tobiasahlin.com/spinkit/) | [Github](https://github.com/tobiasahlin/SpinKit)
 
-![img](/images/css/load/10001.gif)
+![img](/images/html/css/cssui/load/10001.gif)
 
 
 
@@ -30,7 +30,7 @@
 
 - 官方文档：[在线地址](https://whirl.netlify.app/) | [Github](https://github.com/jh3y/whirl)
 
-![img](/images/css/load/10002.gif)
+![img](/images/html/css/cssui/load/10002.gif)
 
 
 
@@ -42,7 +42,7 @@
 
 - 官方文档：[在线地址](https://www.cssportal.com/css-loader-generator/)
 
-![img](/images/css/load/10003.gif)
+![img](/images/html/css/cssui/load/10003.gif)
 
 
 
@@ -54,7 +54,7 @@
 
 - 官方文档：[在线地址](https://projects.lukehaas.me/css-loaders/)
 
-![img](/images/css/load/10004.gif)
+![img](/images/html/css/cssui/load/10004.gif)
 
 
 
@@ -88,7 +88,7 @@
 
 **1. 平滑加载**
 
-![img](/images/css/load/10005.gif)
+![img](/images/html/css/cssui/load/10005.gif)
 
 ```html
 <div class="progress-1"></div>
@@ -113,7 +113,7 @@
 
 **2. 按步加载**
 
-![img](/images/css/load/10006.gif)
+![img](/images/html/css/cssui/load/10006.gif)
 
 ```html
 <div class="progress-2"></div>
@@ -139,7 +139,7 @@
 
 **3. 条纹加载**
 
-![img](/images/css/load/10007.gif)
+![img](/images/html/css/cssui/load/10007.gif)
 
 ```html
 <div class="progress-3"></div>
@@ -164,7 +164,7 @@
 
 **4. 虚线加载**
 
-![img](/images/css/load/10008.gif)
+![img](/images/html/css/cssui/load/10008.gif)
 
 ```html
 <div class="progress-4"></div>
@@ -189,7 +189,7 @@
 
 **5. 电池加载**
 
-![img](/images/css/load/10009.gif)
+![img](/images/html/css/cssui/load/10009.gif)
 
 ```css
 <div class="progress-5"></div>
@@ -246,7 +246,7 @@
 
 **6. 内嵌加载**
 
-![img](/images/css/load/10010.gif)
+![img](/images/html/css/cssui/load/10010.gif)
 
 ```html
 <div class="progress-6"></div>
@@ -279,7 +279,7 @@
 
 **7. 珠链加载**
 
-![img](/images/css/load/10011.gif)
+![img](/images/html/css/cssui/load/10011.gif)
 
 ```html
 <div class="progress-7"></div>
@@ -306,7 +306,7 @@
 
 **8. 斑马线加载**
 
-![img](/images/css/load/10012.gif)
+![img](/images/html/css/cssui/load/10012.gif)
 
 ```html
 <div class="progress-8"></div>
@@ -332,7 +332,7 @@
 
 **9. 水柱加载**
 
-![img](/images/css/load/10013.gif)
+![img](/images/html/css/cssui/load/10013.gif)
 
 ```html
 <div class="progress-9"></div>
@@ -400,7 +400,7 @@
 
 原文地址：https://juejin.cn/post/7203630405710774333
 
-![img](/images/css/load/10014.gif)
+![img](/images/html/css/cssui/load/10014.gif)
 
 
 
@@ -408,7 +408,17 @@
 
 原文地址：https://juejin.cn/post/7263064267560976442
 
-![img](/images/css/load/10015.gif)
+![img](/images/html/css/cssui/load/10015.gif)
+
+
+
+## 简单的CSS加载器
+
+- 源码地址：[在线地址](https://codepen.io/jenning/pen/YzNmzaV)
+
+- 演示地址：[在线地址](https://codepen.io/jenning/pen/YzNmzaV)
+
+![img](/images/html/css/cssui/load/10016.png)
 
 
 

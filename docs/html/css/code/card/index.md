@@ -56,3 +56,37 @@
 
 ![img](/images/html/css/code/card/pure-css3-3d-card-rotate.png)
 
+
+
+## 翻转旋转卡
+
+- 原文链接：[在线地址](https://mp.weixin.qq.com/s/9uANZREm8siQYO-l-oz3aA)
+
+- 源码链接：[在线地址](https://codepen.io/nicolaspavlotsky/pen/wqGgLO)
+
+- 在线演示：[在线地址](https://codepen.io/nicolaspavlotsky/pen/wqGgLO)
+
+![img](/images/html/css/code/card/10004.png)
+
+
+
+## 卡片滑块
+
+- 源码地址：[在线地址](https://codepen.io/aybukeceylan/pen/yLaqqOL)
+
+- 演示地址：[在线地址](https://codepen.io/aybukeceylan/pen/yLaqqOL)
+
+![img](/images/html/css/code/card/10005.png)
+
+
+
+## 透明玻璃卡片
+
+- 源码地址：[在线地址](https://codepen.io/creativeocean/pen/oNzjEYj)
+
+- 演示地址：[在线地址](https://codepen.io/creativeocean/pen/oNzjEYj)
+
+![img](/images/html/css/code/card/10006.png)
+
+
+

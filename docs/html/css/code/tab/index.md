@@ -10,7 +10,17 @@
 
 
 
-## 1. 纯CSS实现选项卡轮转切换效果
+## 纯CSS实现选项卡轮转切换效果
 
 原文地址：https://juejin.cn/post/7239305332823326780
+
+
+
+## 标签栏
+
+- 源码地址：[在线地址](https://codepen.io/flavio_amaral/pen/xxgYGrR)
+
+- 演示地址：[在线地址](https://codepen.io/flavio_amaral/pen/xxgYGrR)
+
+![img](/images/html/css/code/tab/10001.png)
 
