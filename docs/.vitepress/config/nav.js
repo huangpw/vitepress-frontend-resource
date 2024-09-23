@@ -38,10 +38,10 @@ module.exports = [
       { text: 'Vue3UI', link: '/vue/vue3ui' },
       { text: '代码片段', link: '/vue/code' },
       { text: '开源项目', link: '/vue/project' },
-      { text: '学习笔记', link: '/vue/note' },
+      { text: '学习笔记', link: '/vue/note' }, // 打包部署、开发笔记、Vitepress、Vuepress
       { text: '学习视频', link: '/vue/video' },
-      { text: 'Vitepress', link: '/vue/vitepress' },
-      { text: 'Vuepress', link: '/vue/vuepress' },
+      //   { text: 'Vitepress', link: '/vue/vitepress' },
+      //   { text: 'Vuepress', link: '/vue/vuepress' },
     ],
   },
   {
@@ -51,7 +51,7 @@ module.exports = [
       { text: 'UI', link: '/html/css' },
       { text: '代码片段', link: '/html/javascript' },
       { text: '开源项目', link: '/html/jquery' },
-      { text: '学习笔记', link: '/html/three' },
+      { text: '学习笔记', link: '/html/three' }, // 打包部署、开发笔记
       { text: '学习视频', link: '/html/three' },
     ],
   },
