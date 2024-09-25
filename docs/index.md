@@ -9,7 +9,7 @@ hero:
     alt: Vue3-Resource
   actions:
     - theme: brand
-      text: 立即查看 → 
+      text: 立即查看 →
       link: /introduction
     - theme: alt
       text: View on GitHub
@@ -17,20 +17,23 @@ hero:
 
 features:
   - icon: 💻
-    title: web端
-    details: 包含ui库、开箱即用中后台、常用组件库等资源
+    title: HTML&CSS
+    details: HTML+CSS基础、插件库、动画库、阴影库、源码网站、代码片段、UI组件库、开发笔记、Bootstrap、LayUI、CSS框架等。
+    link: /html
+  - icon: 🖥️
+    title: JavaScript
+    details: JavaScript基础、jQuery、代码片段、源码网站、插件库、开发笔记、Node、Axios、Alova、Three、微前端、常用库等。
+    link: /javascript
   - icon: 📱
     title: 移动端
     details: 包含ui库、开源项目、滚动组件、配套等资源
   - icon: 🛠️
-    title:  小程序
+    title: 小程序
     details: 包含框架、ui库等资源
   - icon: 📒
     title: 文档&工具
     details: 收集了常用的文档、工具
-  - icon: 🌲
-    title: 常用库
-    details: 高频使用的JavaScript实用库
+
   - icon: ❤️
     title: 学习&面试
     details: 收集vue3相关的学习文档和面试资源

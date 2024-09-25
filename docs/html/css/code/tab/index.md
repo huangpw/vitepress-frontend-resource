@@ -18,9 +18,9 @@
 
 ## 标签栏
 
+![img](/images/html/css/code/tab/10001.png)
+
 - 源码地址：[在线地址](https://codepen.io/flavio_amaral/pen/xxgYGrR)
 
 - 演示地址：[在线地址](https://codepen.io/flavio_amaral/pen/xxgYGrR)
-
-![img](/images/html/css/code/tab/10001.png)
 

@@ -14,7 +14,7 @@
 
 原文地址：https://juejin.cn/post/7143172764818489375
 
-![img](/images/css/code/icon/10001.gif)
+![img](/images/html/css/code/icon/10001.gif)
 
 
 
@@ -22,5 +22,5 @@
 
 原文地址：https://blog.csdn.net/m0_72759446/article/details/132383008?spm=1001.2014.3001.5506
 
-![img](/images/css/code/icon/10002.gif)
+![img](/images/html/css/code/icon/10002.gif)
 

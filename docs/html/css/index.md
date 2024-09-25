@@ -281,15 +281,15 @@ style="cursor:sw-resize" 　　左下箭头形
 
 ### 页面布局常用选择器
 
-![img](/images/css/base/10001.png)
+![img](/images/html/css/base/10001.png)
 
 ### 页面布局常用属性(一)
 
-![img](/images/css/base/10002.png)
+![img](/images/html/css/base/10002.png)
 
 ### 页面布局常用属性(二)
 
-![img](/images/css/base/10003.png)
+![img](/images/html/css/base/10003.png)
 
 ### CSS3 笔记
 

@@ -1199,7 +1199,7 @@
 
 原文地址：https://blog.csdn.net/SqlloveSyn/article/details/127607854?spm=1001.2014.3001.5506
 
-![img](/images/css/code/shape/10001.png)
+![img](/images/html/css/code/shape/10001.png)
 
 
 
