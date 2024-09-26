@@ -19,6 +19,7 @@
 | W3School          | 中文    | https://www.w3school.com.cn/html/index.asp        |
 | 脚本之家-网页制作 | 中文    | https://www.jb51.net/web/                         |
 | DevDocs           | English | https://devdocs.io/                               |
+| H5Api             | 中文    | https://www.html5plus.org/doc/h5p.html            |
 
 
 

@@ -10,22 +10,23 @@
 
 ## 学习网站
 
-| 网站                     | 描述        | 语言    | 地址                                               |
-| ------------------------ | ----------- | ------- | -------------------------------------------------- |
-| 前端开发实战笔记         | 开发笔记    | 中文    | https://www.bmabk.com/index.php/post/category/qdkf |
-| MDN Web Docs             | 基础学习    | English | https://developer.mozilla.org/zh-CN/docs/Web/CSS   |
-| W3School                 | 基础学习    | 中文    | https://www.w3school.com.cn/css/index.asp          |
-| 菜鸟教程                 | 基础学习    | 中文    | https://www.runoob.com/css/css-tutorial.html       |
-| CSS参考书                | 基础学习    | English | https://cssreference.io/                           |
-| CSS灵感                  | 基础学习    | 中文    | https://chokcoco.github.io/CSS-Inspiration/#/      |
-| 交互式在线CSS速记表      | 基础学习    | English | https://htmlcheatsheet.com/css/                    |
-| 学习CSS布局              | 基础学习    | 中文    | https://zh.learnlayout.com/                        |
-| CSS小花招                | 基础学习    | English | https://css-tricks.com/                            |
-| 450多个纯CSS实现的UI设计 | UI设计      | English | https://codemyui.com/tag/pure-css/                 |
-| CSS资源大全中文版        | CSS资源大全 | 中文    | https://github.com/jobbole/awesome-css-cn          |
-| Awesome CSS              | CSS资源大全 | English | https://github.com/awesome-css-group/awesome-css   |
-| CSS-Tricks               | CSS前端开发 | English | https://css-tricks.com/                            |
-| Google Fonts             | 免费字体库  | English | https://fonts.google.com/                          |
+| 网站                     | 语言    | 地址                                               | 描述        |
+| ------------------------ | ------- | -------------------------------------------------- | ----------- |
+| 前端开发实战笔记         | 中文    | https://www.bmabk.com/index.php/post/category/qdkf | 开发笔记    |
+| MDN Web Docs             | English | https://developer.mozilla.org/zh-CN/docs/Web/CSS   | 基础学习    |
+| W3School                 | 中文    | https://www.w3school.com.cn/css/index.asp          | 基础学习    |
+| 菜鸟教程                 | 中文    | https://www.runoob.com/css/css-tutorial.html       | 基础学习    |
+| CSS参考书                | English | https://cssreference.io/                           | 基础学习    |
+| CSS灵感                  | 中文    | https://chokcoco.github.io/CSS-Inspiration/#/      | 基础学习    |
+| 交互式在线CSS速记表      | English | https://htmlcheatsheet.com/css/                    | 基础学习    |
+| 学习CSS布局              | 中文    | https://zh.learnlayout.com/                        | 基础学习    |
+| CSS小花招                | English | https://css-tricks.com/                            | 基础学习    |
+| 450多个纯CSS实现的UI设计 | English | https://codemyui.com/tag/pure-css/                 | UI设计      |
+| CSS资源大全中文版        | 中文    | https://github.com/jobbole/awesome-css-cn          | CSS资源大全 |
+| Awesome CSS              | English | https://github.com/awesome-css-group/awesome-css   | CSS资源大全 |
+| CSS-Tricks               | English | https://css-tricks.com/                            | CSS前端开发 |
+| Google Fonts             | English | https://fonts.google.com/                          | 免费字体库  |
+| CSS属性速查              | English | https://cssvalues.com/                             | 查找CSS属性 |
 
 
 

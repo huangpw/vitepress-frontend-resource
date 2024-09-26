@@ -16,7 +16,7 @@
 | MDN Web Docs     | English | https://developer.mozilla.org/zh-CN/docs/Web/JavaScript | 基础学习 |
 | W3School         | 中文    | https://www.w3school.com.cn/js/index.asp                | 基础学习 |
 | 菜鸟教程         | 中文    | https://www.runoob.com/js/js-tutorial.html              | 基础学习 |
-|                  |         |                                                         |          |
+| jQuery           | English | https://jquery.com/                                     |          |
 |                  |         |                                                         |          |
 |                  |         |                                                         |          |
 |                  |         |                                                         |          |
