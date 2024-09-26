@@ -14,7 +14,7 @@
 
 原文地址：https://juejin.cn/post/7265157901346144291
 
-![img](/images/html/css/cssui/avatar/a10001.png)
+![img](/images/html/css/code/avatar/a10001.png)
 
 
 

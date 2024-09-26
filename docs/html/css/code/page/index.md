@@ -40,3 +40,31 @@
 
 - 原文地址：https://www.bilibili.com/video/BV1134y1c7Fm/
 - 网盘链接：https://pan.xunlei.com/s/VNjjyaPROGSHCXhVyOLhUoIRA1?pwd=974v#
+
+
+
+## 精美设计的响应式-百搭人个介绍网站
+
+![img](/images/html/css/code/page/10006.png)
+
+- 原文地址：https://www.bilibili.com/video/BV1ic411V7CG/
+
+- 源码地址: https://pan.baidu.com/s/1DLE9JghmccFmscXthT0IWA?pwd=xxsg 
+
+
+
+## html5+css3响应式页面模板案例
+
+![img](/images/html/css/code/page/10007.png)
+
+- 原文地址：https://www.bilibili.com/video/BV1mv4y11774/
+- 源码地址：https://github.com/DoggyYao/css-html-demo
+
+
+
+## 响应式小清新官网
+
+![img](/images/html/css/code/page/10008.png)
+
+- 原文地址：https://www.bilibili.com/video/BV19e4y1g73Y
+- 源码地址：https://gitee.com/shixianjie/css_html

@@ -1,4 +1,4 @@
-# 🍁 菜单
+# 🍁Menu菜单
 
 ::: tip 说明
 
@@ -162,4 +162,148 @@ ul li a:hover:before {
 - 原文地址：https://www.bilibili.com/video/BV1Zr4y1z7AW/
 
 - 源码地址：https://github.com/bedimcode/responsive-navbar
+
+
+
+## 16个实用的CSS样式之导航栏
+
+- 原文地址：https://juejin.cn/post/7145485638580568095
+
+![img](/images/html/css/code/menu/m10001.gif)
+
+
+
+## 一个酷炫的移动端菜单栏效果
+
+- 原文地址：https://juejin.cn/post/7282889267030147133
+
+![img](/images/html/css/code/menu/m10002.gif)
+
+
+
+## 基于css3写出的底部导航栏效果
+
+- 原文地址：https://juejin.cn/post/7262334378759405605
+
+![img](/images/html/css/code/menu/m10003.gif)
+
+
+
+## 一些有趣的首部导航栏交互动画
+
+- 原文地址：https://juejin.cn/post/7144313004522209294
+
+![img](/images/html/css/code/menu/m10004.gif)
+
+- 源码地址：https://code.juejin.cn/pen/7144275011652567077
+
+![img](/images/html/css/code/menu/m10005.gif)
+
+- 源码地址：https://code.juejin.cn/pen/7144286083268739103
+
+
+
+## CSS实现导航菜单动画效果
+
+![img](/images/html/css/code/menu/10005.gif)
+
+- 原文地址：https://mp.weixin.qq.com/s/1CUJsxjrODyfT0LfckQysw
+
+
+
+## web网页如何实现响应式导航栏-移动端导航栏
+
+![img](/images/html/css/code/menu/m10006.gif)
+
+- 原文地址：https://blog.csdn.net/qq_26780317/article/details/129126971
+
+
+
+## 响应式菜单
+
+![img](/images/html/css/code/menu/m10007.png)
+
+- 原文地址：https://blog.csdn.net/weixin_43321726/article/details/103966344
+
+
+
+## 响应式导航栏
+
+![img](/images/html/css/code/menu/m10008.png)
+
+- 原文地址：https://blog.csdn.net/NpcCat/article/details/122932225
+
+
+
+## 底部滑动导航栏
+
+![img](/images/html/css/code/menu/m10009.png)
+
+- 原文地址：https://www.bilibili.com/read/cv28459747/
+
+
+
+## 全屏导航栏菜单
+
+![img](/images/html/css/code/menu/m10010.png)
+
+- 原文地址：https://www.bilibili.com/video/BV1ca411i78Q/
+
+- 源码地址：
+
+  https://gitee.com/wyanhui02/html_css_demo/blob/master/html/9.html 
+
+  https://gitee.com/wyanhui02/html_css_demo/blob/master/css/9.css 
+
+
+
+## 后台管理系统的侧边导航栏
+
+![img](/images/html/css/code/menu/m10011.png)
+
+- 原文地址：https://www.bilibili.com/video/BV1g44y1G7nQ/
+- 源码地址：https://gitee.com/wulaoda/html_css_js_demo/tree/master/cebiandaohanglan
+
+
+
+## Tabbar图标栏动画切换特效
+
+![img](/images/html/css/code/menu/m10012.png)
+
+- 原文地址：https://www.bilibili.com/video/BV13L4y1g7SM/
+- 源码地址：https://gitee.com/wyanhui02/html_css_demo/tree/master/code/114
+
+
+
+## 霁青+翠蓝的Tabbar动画特效
+
+![img](/images/html/css/code/menu/m10013.png)
+
+- 原文地址：https://www.bilibili.com/video/BV1Cd4y1A7dZ/
+- 源码地址：https://gitee.com/wyanhui02/html_css_demo/tree/master/code/182
+
+
+
+## 独具创意的侧边栏菜单
+
+![img](/images/html/css/code/menu/m10014.png)
+
+- 原文地址：https://www.bilibili.com/video/BV1684y1v7nP/
+- 源码地址：https://pan.baidu.com/s/19GlF9YfW3PINcpfM2_Wdhw 提取码: 16ms
+
+
+
+## 侧边导航栏
+
+![img](/images/html/css/code/menu/m10015.png)
+
+- 原文地址：https://www.bilibili.com/video/BV1kb4y1J7L9/
+
+- 源码地址：
+
+  https://gitee.com/wyanhui02/html_css_demo/blob/master/html/59.html 
+
+  https://gitee.com/wyanhui02/html_css_demo/blob/master/css/59.css
+
+
 

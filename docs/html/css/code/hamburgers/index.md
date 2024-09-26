@@ -2,6 +2,8 @@
 
 ## Tasty CSS-animated hamburgers-汉堡
 
+![img](/images/html/css/code/hamburgers/10004.png)
+
 在构建移动响应应用程序时，汉堡图标已成为一种广泛使用的模式。它通常放置在图形界面的顶角。它的目标是切换导航菜单。
 
 - 默认语言：English
@@ -21,11 +23,11 @@
 - 添加标记
 - 使用 css 类 hamburger--collapse 来切换状态
 
-![img](/images/html/css/cssui/hamburgers/10004.webp)
-
 
 
 ## 12款超实用的CSS3汉堡包菜单按钮变形动画
+
+![img](/images/html/css/code/hamburgers/css3-hamburger-button.png)
 
 汉堡包菜单图标在APP或响应式设计上比较常见，一般用来展开/关闭网站导航菜单。这款CSS3汉堡包菜单按钮一共有12种变形动画，大家可以根据自己的喜好来选择一款。
 
@@ -35,4 +37,3 @@
 
 - 在线演示：https://www.html5tricks.com/demo/css3-hamburger-button/index.html
 
-![img](/images/html/css/cssui/hamburgers/css3-hamburger-button.png)

@@ -14,7 +14,7 @@
 
 - 原文地址：https://blog.csdn.net/gyueh/article/details/107693098
 
-![img](/images/html/css/cssui/arc/10001.png)
+![img](/images/html/css/code/arc/10001.png)
 
 
 

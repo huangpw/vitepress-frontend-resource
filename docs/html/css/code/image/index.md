@@ -12,7 +12,7 @@
 
 ## CSS3全屏大气手风琴图片展示插件
 
-![img](/images/html/css/cssui/image/10001.png)
+![img](/images/html/css/code/image/10001.png)
 
 - 原文地址：**https://mp.weixin.qq.com/s/UbyAOv7eIT1lc3rKa9GlHg**
 
@@ -26,7 +26,7 @@
 
 ## CSS实现图片悬停叠加动画效果
 
-![img](/images/html/css/cssui/image/10002.png)
+![img](/images/html/css/code/image/10002.png)
 
 - 原文地址：https://mp.weixin.qq.com/s/CarMT5_3qMg1SPonzKrQcA
 
@@ -34,7 +34,7 @@
 
 ## 垂直轮播图效果的实现
 
-![img](/images/html/css/cssui/image/10003.gif)
+![img](/images/html/css/code/image/10003.gif)
 
 - 原文地址：https://mp.weixin.qq.com/s/_uVVaN1Eb2Vm-PIaBxQSNA
 
@@ -42,7 +42,7 @@
 
 ## 七夕节背景轮播图效果的实现
 
-![img](/images/html/css/cssui/image/10004.gif)
+![img](/images/html/css/code/image/10004.gif)
 
 - 原文地址：https://mp.weixin.qq.com/s/TK03sVx7ZjT2N9jLzkjIEA
 
@@ -50,7 +50,7 @@
 
 ## 实现图片轮播的自动播放
 
-![img](/images/html/css/cssui/image/10005.png)
+![img](/images/html/css/code/image/10005.png)
 
 - 原文地址：https://www.bilibili.com/opus/758815829716369428
 

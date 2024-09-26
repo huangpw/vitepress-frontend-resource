@@ -1,4 +1,4 @@
-# 🍁卡片
+# 🍁Card卡片
 
 ::: tip 说明
 
@@ -338,3 +338,23 @@ font-size: 16px;
 ![img](/images/html/css/code/card/10010.png)
 
 - 原文地址：https://blog.csdn.net/macwhirr123/article/details/50897726
+
+
+
+## 卡片悬停图文遮罩显示特效
+
+![img](/images/html/css/code/card/10011.png)
+
+- 原文地址：https://www.bilibili.com/video/BV1R3411T7pA/
+- 源码地址：https://gitee.com/wyanhui02/html_css_demo/tree/master/code/139
+
+
+
+## CSS卡片hover效果
+
+![img](/images/html/css/code/card/10012.png)
+
+- 原文地址：https://www.bilibili.com/video/BV1UF411T7Ay/
+
+
+
