@@ -77,16 +77,15 @@ module.exports = [
   {
     text: '🌾常用',
     items: [
-      //   { text: '学习网站', link: '/html/css' },
       //   { text: '源码库', link: '/html/css' },
       { text: '图标库', link: '/html/javascript' },
       { text: '颜色库', link: '/html/javascript' },
-      { text: '图片处理', link: '/commonly/deploy' },
+      { text: '图片库', link: '/use/image' },
       { text: '部署网站', link: '/commonly/deploy' },
       { text: '开发插件', link: '/html/jquery' },
       { text: '在线工具', link: '/html/three' },
       { text: '面试题', link: '/html/three' },
-      { text: '学习视频', link: '/html/three' },
+      { text: '学习视频', link: '/use/study-video' },
       { text: '友链', link: '/html/css' },
     ],
   },

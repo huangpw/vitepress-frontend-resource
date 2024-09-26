@@ -307,3 +307,36 @@ ul li a:hover:before {
 
 
 
+## 实现响应式导航菜单
+
+![img](/images/html/css/code/menu/m10016.png)
+
+- 原文地址：https://www.bilibili.com/video/BV1xJ411p7b1/
+
+- 源码地址：
+
+  https://codesandbox.io/s/responsive-navbar-m2kr9 
+
+  https://github.com/zxuqian/html-css-examples
+
+
+
+## HTML+CSS创建滑动式侧边栏菜单
+
+![img](/images/html/css/code/menu/m10017.png)
+
+- 原文地址：https://www.bilibili.com/video/BV1dP411X7kE/
+
+- 源码地址：https://pan.baidu.com/s/1Q6RQvROidyNTYALsOyf8cQ  提取码：n80b
+
+  
+
+## HTML+CSS和JavaScript创建响应式可悬停的侧边栏导航
+
+![img](/images/html/css/code/menu/m10018.png)
+
+- 原文地址：https://www.bilibili.com/video/BV1Tz4y1z7Nc/
+- 源码地址：https://pan.baidu.com/s/1anNh-4Bs4W1OCh7_o6Kasg  提取码：r5wg
+
+
+

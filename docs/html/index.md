@@ -18,6 +18,7 @@
 | 菜鸟教程          | 中文    | https://www.runoob.com/html/html-tutorial.html    |
 | W3School          | 中文    | https://www.w3school.com.cn/html/index.asp        |
 | 脚本之家-网页制作 | 中文    | https://www.jb51.net/web/                         |
+| DevDocs           | English | https://devdocs.io/                               |
 
 
 

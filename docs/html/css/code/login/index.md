@@ -1,4 +1,4 @@
-# 🍁登录注册
+# 🍁Login登录注册
 
 ::: tip 说明
 
@@ -103,3 +103,35 @@
 - 原文地址：https://www.bilibili.com/video/BV1Zs4y1Z7KZ/
 - 源码地址：https://gitee.com/mao-yongyao/login-page-seven
 - 演示地址：http://yymao.fun/loginseven/index.html
+
+
+
+## 登录注册界面
+
+![img](/images/html/css/code/login/l10010.png)
+
+- 原文地址：https://www.bilibili.com/video/BV1TN41127Jo/
+- 源码地址：https://gitee.com/mao-yongyao/20230716--login-interface
+- 演示地址：http://yymao.fun/loginfourteen/index.html
+
+
+
+## HTML5+CSS3实现背景动态变化的登录界面
+
+![img](/images/html/css/code/login/l10011.png)
+
+- 原文地址：https://www.bilibili.com/video/BV11q4y1c7rF/
+
+- 源码地址：
+
+  https://gitee.com/wyanhui02/html_css_demo/blob/master/html/57.html
+
+  https://gitee.com/wyanhui02/html_css_demo/blob/master/css/57.css
+
+
+
+## 精美设计的Login页面
+
+![img](/images/html/css/code/login/l10012.png)
+
+- 原文地址：https://www.bilibili.com/video/BV1LW4y1g7pr/

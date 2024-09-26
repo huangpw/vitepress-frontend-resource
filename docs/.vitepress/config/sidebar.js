@@ -66,6 +66,7 @@ module.exports = {
         { text: 'Login登录注册', link: '/html/css/code/login' },
         { text: 'Page网站页面', link: '/html/css/code/page' },
         { text: 'Theme主题切换', link: '/html/css/code/theme' },
+        { text: 'other其他', link: '/html/css/code/other' },
       ],
     },
     {
@@ -74,46 +75,46 @@ module.exports = {
       items: htmlNote,
     },
   ],
-  '/html/bootstrap': [
-    {
-      text: 'Bootstrap',
-      collapsed: false,
-      items: [
-        { text: 'Bootstrap', link: '/html/bootstrap' },
-        { text: '开源项目', link: '/html/bootstrap/project' },
-        { text: '学习视频', link: '/html/bootstrap/video' },
-        // { text: '动画库', link: '/html/css/animista' },
-        // { text: '阴影库', link: '/html/css/shadow' },
-        // { text: '源码网站', link: '/html/css/website' },
-      ],
-    },
-  ],
-  '/html/layui': [
-    {
-      text: 'LayUI',
-      collapsed: false,
-      items: [
-        // { text: 'LayUI', link: '/html/layui' },
-        { text: '开源项目', link: '/html/layui/project' },
-        { text: '学习视频', link: '/html/layui/video' },
-        // { text: '动画库', link: '/html/css/animista' },
-        // { text: '阴影库', link: '/html/css/shadow' },
-        // { text: '源码网站', link: '/html/css/website' },
-      ],
-    },
-    {
-      text: '代码片段',
-      collapsed: false,
-      items: [
-        // { text: 'LayUI', link: '/html/layui' },
-        { text: '开源项目', link: '/html/layui/project' },
-        { text: '学习视频', link: '/html/layui/video' },
-        // { text: '动画库', link: '/html/css/animista' },
-        // { text: '阴影库', link: '/html/css/shadow' },
-        // { text: '源码网站', link: '/html/css/website' },
-      ],
-    },
-  ],
+  //   '/html/bootstrap': [
+  //     {
+  //       text: 'Bootstrap',
+  //       collapsed: false,
+  //       items: [
+  //         { text: 'Bootstrap', link: '/html/bootstrap' },
+  //         { text: '开源项目', link: '/html/bootstrap/project' },
+  //         { text: '学习视频', link: '/html/bootstrap/video' },
+  //         // { text: '动画库', link: '/html/css/animista' },
+  //         // { text: '阴影库', link: '/html/css/shadow' },
+  //         // { text: '源码网站', link: '/html/css/website' },
+  //       ],
+  //     },
+  //   ],
+  //   '/html/layui': [
+  //     {
+  //       text: 'LayUI',
+  //       collapsed: false,
+  //       items: [
+  //         // { text: 'LayUI', link: '/html/layui' },
+  //         { text: '开源项目', link: '/html/layui/project' },
+  //         { text: '学习视频', link: '/html/layui/video' },
+  //         // { text: '动画库', link: '/html/css/animista' },
+  //         // { text: '阴影库', link: '/html/css/shadow' },
+  //         // { text: '源码网站', link: '/html/css/website' },
+  //       ],
+  //     },
+  //     {
+  //       text: '代码片段',
+  //       collapsed: false,
+  //       items: [
+  //         // { text: 'LayUI', link: '/html/layui' },
+  //         { text: '开源项目', link: '/html/layui/project' },
+  //         { text: '学习视频', link: '/html/layui/video' },
+  //         // { text: '动画库', link: '/html/css/animista' },
+  //         // { text: '阴影库', link: '/html/css/shadow' },
+  //         // { text: '源码网站', link: '/html/css/website' },
+  //       ],
+  //     },
+  //   ],
   '/html/tailwindcss': [
     {
       text: '官方网站',
@@ -191,6 +192,7 @@ module.exports = {
         { text: 'jQuery', link: '/html/jquery' },
         { text: '开源项目', link: '/javascript/project' },
         { text: '插件库', link: '/javascript/plugin' },
+        { text: '图片处理库', link: '/javascript/image-handle' },
         { text: '源码网站', link: '/javascript/website' },
       ],
     },
@@ -268,6 +270,20 @@ module.exports = {
       items: [
         { text: '首页', link: '/vue/code/home' },
         { text: '404', link: '/vue/code/404' },
+      ],
+    },
+  ],
+  '/use/study-video': [
+    {
+      text: '学习视频',
+      collapsed: false,
+      items: [
+        { text: 'HTML&CSS&JS', link: '/use/study-video' },
+        { text: 'Vue', link: '/use/study-video/vue' },
+        { text: 'React', link: '/use/study-video/react' },
+        { text: 'Angular', link: '/use/study-video/angular' },
+        { text: 'Electron', link: '/use/study-video/electron' },
+        { text: 'Other', link: '/use/study-video/other' },
       ],
     },
   ],

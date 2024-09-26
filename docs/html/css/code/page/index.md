@@ -68,3 +68,29 @@
 
 - 原文地址：https://www.bilibili.com/video/BV19e4y1g73Y
 - 源码地址：https://gitee.com/shixianjie/css_html
+
+
+
+## animation动画让你的个人主页动起来
+
+![img](/images/html/css/code/page/10009.png)
+
+- 原文地址：https://www.bilibili.com/video/BV18L411d7aZ/
+
+- 源码地址：
+
+  https://github.com/Call-me-phoenix/css-effect-collection
+
+  https://gitee.com/call-me-phoenix/css-effect-library
+
+
+
+## 自适应网页布局，兼容PC端和移动端
+
+![img](/images/html/css/code/page/10010.png)
+
+- 原文地址：https://www.bilibili.com/video/BV1sk4y1x7jC/
+- 源码地址：https://github.com/Largefreedom/HTML_PRACTICE/tree/master/Web2_Responsive
+
+
+
