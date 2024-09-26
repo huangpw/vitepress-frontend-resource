@@ -291,7 +291,7 @@ style="cursor:sw-resize" 　　左下箭头形
 
 ![img](/images/html/css/base/10003.png)
 
-### CSS3 笔记
+### CSS3笔记
 
 **CSS3 笔记：** [https://www.jianshu.com/p/d3f52a89e0fd](https://www.jianshu.com/p/d3f52a89e0fd)
 
@@ -299,7 +299,7 @@ style="cursor:sw-resize" 　　左下箭头形
 
 **CSS 实战案例大全：** [http://www.gaodaima.com/103.html](http://www.gaodaima.com/103.html)
 
-### CSS 常用代码大全
+### CSS常用代码大全
 
 **html+css 可以很方便的进行网页的排版布局，还能减少很多不必要的代码。**
 
@@ -528,3 +528,11 @@ style="cursor:sw-resize" 　　左下箭头形
 **style="cursor:se-resize" 　　右下箭头形**
 
 **style="cursor:sw-resize" 　　左下箭头形**
+
+
+
+## 一张图记住所有CSS Flex备忘录
+
+网页版备忘录：https://yoksel.github.io/flex-cheatsheet/
+
+![img](/images/html/css/base/flex.jpeg)

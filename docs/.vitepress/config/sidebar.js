@@ -66,7 +66,6 @@ module.exports = {
         { text: 'Login登录注册', link: '/html/css/code/login' },
         { text: 'Page网站页面', link: '/html/css/code/page' },
         { text: 'Theme主题切换', link: '/html/css/code/theme' },
-
       ],
     },
     {
@@ -205,7 +204,7 @@ module.exports = {
         { text: '选项卡', link: '/javascript/code/tab' },
         { text: '登录注册', link: '/javascript/code/login-register' },
         { text: '滚动加载', link: '/javascript/code/roll' },
-        { text: '验证码', link: '/javascript/code/verify' },
+        { text: 'Verify验证码', link: '/javascript/code/verify' },
       ],
     },
     {
