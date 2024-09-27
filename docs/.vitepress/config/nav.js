@@ -81,7 +81,7 @@ module.exports = [
       { text: '图标库', link: '/html/javascript' },
       { text: '颜色库', link: '/html/javascript' },
       { text: '图片库', link: '/use/image' },
-      { text: '部署网站', link: '/commonly/deploy' },
+      { text: '部署发布', link: '/commonly/deploy' },
       { text: '开发插件', link: '/html/jquery' },
       { text: '在线工具', link: '/html/three' },
       { text: '面试题', link: '/html/three' },
