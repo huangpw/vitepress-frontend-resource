@@ -1,4 +1,4 @@
-# 🍁UI库
+# 🍁CSSUI库
 
 ::: tip 说明
 
@@ -8,7 +8,7 @@
 
 :::
 
-## UIVerse
+## UIVerse🔥
 
 ![img](/images/html/ui/10007.png)
 
@@ -21,10 +21,13 @@
 
 ## Bootstrap🔥
 
-Bootstrap仍然是最流行的 CSS 框架之一。他们提供了大量的文档、示例和演示，可以帮你快速进行响应式 Web 开发。该框架的当前版本是 Bootstrap 5，相较于V4，做出了一些改变：
+![img](/images/html/ui/bootstrap/10001.png)
 
 - 默认语言：English
-- 官方文档：[Bootstrap](https://getbootstrap.com/)
+- 官方地址：https://getbootstrap.com/
+- 仓库地址：https://github.com/twbs/bootstrap
+
+Bootstrap仍然是最流行的 CSS 框架之一。他们提供了大量的文档、示例和演示，可以帮你快速进行响应式 Web 开发。该框架的当前版本是 Bootstrap 5，相较于V4，做出了一些改变。
 
 特点：
 
@@ -35,11 +38,11 @@ Bootstrap仍然是最流行的 CSS 框架之一。他们提供了大量的文档
 - 增强的网格系统
 - Forms可被更新
 
-![img](/images/html/ui/bootstrap/10001.png)
-
 
 
 ## Layui-新🔥
+
+![img](/images/html/ui/layui/10001.png)
 
 Layui 是一套免费的开源 Web UI 组件库，采用自身轻量级模块化规范，遵循原生态的 HTML/CSS/JavaScript 开发模式，极易上手，拿来即用。其风格简约轻盈，而内在雅致丰盈，甚至包括文档在内的每一处细节都经过精心雕琢，非常适合网页界面的快速构建。
 
@@ -47,48 +50,50 @@ Layui 区别于一众主流的前端框架，却并非逆道而行，而是信�
 
 - 默认语言：中文
 - 中文文档：https://layui.dev
-- 仓库资源：https://github.com/layui/layui
+- 仓库地址：https://github.com/layui/layui
 - 使用文档：https://layui.dev/docs/2/
-
-![img](/images/html/ui/layui/10001.png)
 
 
 
 ## Layui-2.6.8
 
-Layui 是一套开源免费的 Web UI 组件库，采用自身轻量级模块化规范，遵循原生态的 `HTML/CSS/JavaScript` 开发模式，极易上手，拿来即用。其风格简约轻盈，而内在雅致丰盈，甚至包括文档在内的每一处细节都经过精心雕琢，非常适合网页界面的快速构建。Layui 区别于一众主流的前端框架，却并非逆道而行，而是信奉返璞归真之道。确切地说，它更多是面向于追求简单的务实主义者，即无需涉足各类构建工具，只需面向浏览器本身，便可将页面所需呈现的元素与交互信手拈来。
+![img](/images/html/ui/layui/10002.png)
+
+Layui 是一套开源免费的 Web UI 组件库，采用自身轻量级模块化规范，遵循原生态的 `HTML/CSS/JavaScript` 开发模式，极易上手，拿来即用。
+
+其风格简约轻盈，而内在雅致丰盈，甚至包括文档在内的每一处细节都经过精心雕琢，非常适合网页界面的快速构建。Layui 区别于一众主流的前端框架，却并非逆道而行，而是信奉返璞归真之道。确切地说，它更多是面向于追求简单的务实主义者，即无需涉足各类构建工具，只需面向浏览器本身，便可将页面所需呈现的元素与交互信手拈来。
 
 - 默认语言：中文
 - 官方地址：https://layui.uimaker.com/index.html
-- 仓库资源：https://github.com/layui/layui
-
-![img](/images/html/ui/layui/10002.png)
+- 仓库地址：https://github.com/layui/layui
 
 
 
 ## Layui-2.6.8
 
-Layui 是一套开源免费的 Web UI 组件库，采用自身轻量级模块化规范，遵循原生态的 `HTML/CSS/JavaScript` 开发模式，极易上手，拿来即用。其风格简约轻盈，而内在雅致丰盈，甚至包括文档在内的每一处细节都经过精心雕琢，非常适合网页界面的快速构建。Layui 区别于一众主流的前端框架，却并非逆道而行，而是信奉返璞归真之道。确切地说，它更多是面向于追求简单的务实主义者，即无需涉足各类构建工具，只需面向浏览器本身，便可将页面所需呈现的元素与交互信手拈来。
+![img](/images/html/ui/layui/10002.png)
+
+Layui 是一套开源免费的 Web UI 组件库，采用自身轻量级模块化规范，遵循原生态的 `HTML/CSS/JavaScript` 开发模式，极易上手，拿来即用。
+
+其风格简约轻盈，而内在雅致丰盈，甚至包括文档在内的每一处细节都经过精心雕琢，非常适合网页界面的快速构建。Layui 区别于一众主流的前端框架，却并非逆道而行，而是信奉返璞归真之道。确切地说，它更多是面向于追求简单的务实主义者，即无需涉足各类构建工具，只需面向浏览器本身，便可将页面所需呈现的元素与交互信手拈来。
 
 - 默认语言：中文
 - 官方地址：http://www.layui.cc/index.html
-- 仓库资源：https://github.com/layui/layui
-
-![img](/images/html/ui/layui/10002.png)
+- 仓库地址：https://github.com/layui/layui
 
 
 
 ## Bulma🔥
 
+![img](/images/html/ui/10006.png)
+
 Bulma是一个现代的、轻量级的、易自定义的 CSS UI 框架。它采用Flexbox布局，使构建响应式网页设计变得简单快捷。
 
 - 默认语言：English
 
-- [官方文档](https://bulma.io/)
-- [仓库资源](https://github.com/jgthms/bulma)
-- [使用文档](https://mp.weixin.qq.com/s/4cbrjvybmoxLAlRjVmXtCg)
-
-![img](/images/html/ui/10006.png)
+- 官方地址：https://bulma.io/
+- 仓库地址：https://github.com/jgthms/bulma
+- 使用文档：https://mp.weixin.qq.com/s/4cbrjvybmoxLAlRjVmXtCg
 
 
 
@@ -98,11 +103,11 @@ Bulma是一个现代的、轻量级的、易自定义的 CSS UI 框架。它采�
 
 - 默认语言：English
 
-- [官方文档](https://picocss.com/)
+- 官方地址：https://picocss.com/
 
-- [仓库资源](https://github.com/picocss/pico)
+- 仓库地址：https://github.com/picocss/pico
 
-- [使用文档](https://www.thosefree.com/pico-css)
+- 使用文档：https://www.thosefree.com/pico-css
 
 
 
@@ -112,11 +117,11 @@ Picnic CSS是一个轻量级且美观的CSS库。Picnic是完全模块化的，�
 
 - 默认语言：English
 
-- [官方文档](https://picnicss.com/)
+- 官方地址：https://picnicss.com/
 
-- [仓库资源](https://github.com/franciscop/picnic)
+- 仓库地址：https://github.com/franciscop/picnic
 
-- [使用文档](https://picnicss.com/documentation)
+- 使用文档：https://picnicss.com/documentation
 
 ![img](/images/html/ui/10002.png)
 
@@ -128,11 +133,11 @@ NES.css 模仿了8 位 Nintendo Entertainment System 图形，营造出复古的
 
 - 默认语言：English
 
-- [官方文档](https://nostalgic-css.github.io/NES.css/)
+- 官方地址：https://nostalgic-css.github.io/NES.css/
 
-- [仓库资源](https://github.com/nostalgic-css/NES.css)
+- 仓库地址：https://github.com/nostalgic-css/NES.css
 
-- [使用文档](https://github.com/nostalgic-css/NES.css/blob/develop/.github/README-zh-CN.md)
+- 使用文档：https://github.com/nostalgic-css/NES.css/blob/develop/.github/README-zh-CN.md
 
 
 
@@ -142,11 +147,11 @@ Picnic CSS是一个轻量级且美观的CSS库。
 
 - 默认语言：English
 
-- [官方文档](https://www.w3schools.com/howto/default.asp)
+- 官方地址：https://www.w3schools.com/howto/default.asp
 
-- [仓库资源]()
+- 仓库地址：-
 
-- [使用文档](https://www.w3schools.com/howto/default.asp)
+- 使用文档：https://www.w3schools.com/howto/default.asp
 
 
 
@@ -156,59 +161,69 @@ Picnic CSS是一个轻量级且美观的CSS库。
 
 - 默认语言：English
 
-- [官方文档](https://www.csswand.dev/)
+- 官方地址：https://www.csswand.dev/
 
-- [仓库资源](https://github.com/oliver-gomes/csswand)
+- 仓库地址：https://github.com/oliver-gomes/csswand
 
-- [使用文档](https://www.csswand.dev/)
+- 使用文档：https://www.csswand.dev/
 
 
 
 ## Cirrus.css
 
+![img](/images/html/ui/10001.png)
+
 - 默认语言：English
-- 官方文档：[Cirrus CSS 💎 (cirrus-ui.netlify.app)](https://cirrus-ui.netlify.app/)
+- 官方地址：https://cirrus-ui.netlify.app/
 
 Cirrus.CSS是一个以组件和实用程序为中心的SCSS框架，针对的是快速原型设计。一个完全响应式和全面的SCSS框架，具有漂亮的控件和简单的结构。
-
-![img](/images/html/ui/10001.png)
 
 
 
 ## Milligram
 
+![img](/images/html/ui/10003.png)
+
 - 默认语言：English
-- 官方文档：[Milligram - A minimalist CSS framework](https://milligram.io/)
+- 官方地址：https://milligram.io/
 
 Milligram只需要最少的样式设置就可以快速又干净地启动开发。压缩后只有2kb！与UI框架无关。专为更好的性能和更高的生产力而设计，需要重置的属性更少，所以代码更干净。
-
-![img](/images/html/ui/10003.png)
 
 
 
 ## Spectre.css
 
+![img](/images/html/ui/SPECTRE-CSS-tutorial.png)
+
 - 默认语言：English
-- 官方文档：[Spectre.css CSS Framework (picturepan2.github.io)](https://picturepan2.github.io/spectre/)
+- 官方地址：https://picturepan2.github.io/spectre/
 
 Spectre.css CSS框架是一款轻量级、响应式和现代化的CSS框架，用于更快和可扩展的开发。Spectre涵盖了Bootstrap期望的所有基本CSS，例如按钮、表单、图标等。
-
-![img](/images/html/ui/SPECTRE-CSS-tutorial.png)
 
 
 
 ## Boomerang UI Kit
 
-基于Webpixels为您带来的众所周知的Bootstrap 4框架的免费HTML UI Kit
+![img](/images/html/ui/10005.png)
 
 - 默认语言：English
-- 官方文档：[Boomerang UI Kit](https://preview.webpixels.io/boomerang-free-bootstrap-ui-kit/)
+- 官方地址：https://preview.webpixels.io/boomerang-free-bootstrap-ui-kit/
 
-![img](/images/html/ui/10005.png)
+基于Webpixels为您带来的众所周知的Bootstrap 4框架的免费HTML UI Kit。
 
 
 
 ## Tabler🔥
+
+![img](/images/html/ui/tabler/10002.png)
+
+![img](/images/html/ui/tabler/10003.png)
+
+![img](/images/html/ui/tabler/10004.png)
+
+- 默认语言：English
+- 官方地址：https://tabler.io/admin-template
+- 仓库地址：https://github.com/tabler/tabler
 
 Tabler 是一个基于 Bootstrap 构建的免费开源 HTML 仪表盘 UI 套件。
 
@@ -218,21 +233,11 @@ Tabler 主要面向开发人员和设计师，旨在帮助他们快速构建具�
 
 Tabler 是完全响应式的，与所有现代浏览器兼容，可以帮助我们创建一个用户会喜欢的界面。
 
-- 默认语言：English
-- 官方文档：[Tabler](https://tabler.io/admin-template)
-- 仓库地址：[GitHub - tabler/tabler](https://github.com/tabler/tabler)
-
-![img](/images/html/ui/tabler/10002.png)
-
-![img](/images/html/ui/tabler/10003.png)
-
-![img](/images/html/ui/tabler/10004.png)
-
 Tabler 项目特点：
 
-- **现代化设计：** Tabler 采用现代化的设计语言，提供清晰、直观的用户界面，使得管理面板看起来更加专业和美观。
-- **响应式布局：** UI 框架具备响应式设计，适应不同屏幕尺寸和设备，确保在各种环境下都能提供良好的用户体验。
-- **模块化组件：** 提供一系列模块化的UI组件，如表格、图表、卡片、表单等，使开发者能够快速构建丰富功能的管理界面。
-- **主题定制：** 用户可以通过自定义主题来调整界面的外观，以满足特定项目或品牌的需求。
-- **内置样式和图标：** Tabler集成了一组内置的样式和图标，使得用户能够方便地使用它们来提升界面的视觉吸引力。
-- **开源：** 作为 GitHub 上的开源项目，Tabler 允许用户查看源代码、提出问题、提交贡献，从而促进社区合作和不断改进。
+- 现代化设计： Tabler 采用现代化的设计语言，提供清晰、直观的用户界面，使得管理面板看起来更加专业和美观。
+- 响应式布局： UI 框架具备响应式设计，适应不同屏幕尺寸和设备，确保在各种环境下都能提供良好的用户体验。
+- 模块化组件： 提供一系列模块化的UI组件，如表格、图表、卡片、表单等，使开发者能够快速构建丰富功能的管理界面。
+- 主题定制： 用户可以通过自定义主题来调整界面的外观，以满足特定项目或品牌的需求。
+- 内置样式和图标： Tabler集成了一组内置的样式和图标，使得用户能够方便地使用它们来提升界面的视觉吸引力。
+- 开源： 作为 GitHub 上的开源项目，Tabler 允许用户查看源代码、提出问题、提交贡献，从而促进社区合作和不断改进。

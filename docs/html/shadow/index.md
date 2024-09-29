@@ -10,39 +10,39 @@
 
 
 
-## Shadows Brumm 🔥
-
-css 阴影在线生成。
-
-- 默认语言：English
-
-- 官方文档：[在线地址](https://shadows.brumm.af/)
+## Shadows Brumm🔥
 
 ![国外优秀的 CSS 阴影效果生成器-Boss设计](https://img.bossdesign.cn/2022/03/2022031015434445.png?0426)
 
-
-
-## 盒状阴影实现 🔥
-
-使用分层的盒状阴影实现更平滑、更清晰的阴影。
-
 - 默认语言：English
 
-- 官方文档：[在线地址](https://tobiasahlin.com/blog/layered-smooth-box-shadows/)
+- 官方文档：https://shadows.brumm.af/
+
+css 阴影在线生成。
+
+
+
+## 盒状阴影实现🔥
 
 ![img](https://tse3-mm.cn.bing.net/th/id/OIP-C.b2PoTkkkpAj-zL-E5agbzwAAAA?rs=1&pid=ImgDetMain)
 
+- 默认语言：English
+
+- 官方文档：https://tobiasahlin.com/blog/layered-smooth-box-shadows/
+
+使用分层的盒状阴影实现更平滑、更清晰的阴影。
 
 
-## 95个漂亮的CSS盒影示例 🔥
 
-漂亮的CSS box-shadow示例。
+## 95个漂亮的CSS盒影示例🔥
+
+![img](https://www.xmhudong.com/wp-content/uploads/2022/02/css1.jpg)
 
 - 默认语言：English
 
-- 官方文档：[在线地址](https://getcssscan.com/css-box-shadow-examples)
+- 官方文档：https://getcssscan.com/css-box-shadow-examples
 
-![img](https://www.xmhudong.com/wp-content/uploads/2022/02/css1.jpg)
+漂亮的CSS box-shadow示例。
 
 
 
@@ -142,65 +142,71 @@ background-color: #9c27b0;
 
 ## css-irl.info
 
-下拉阴影：被低估的CSS过滤器。
+![img](https://www.xmhudong.com/wp-content/uploads/2022/02/css2.jpg)
 
 - 默认语言：English
 
 - 官方文档：[在线地址](https://css-irl.info/drop-shadow-the-underrated-css-filter/)
 
-![img](https://www.xmhudong.com/wp-content/uploads/2022/02/css2.jpg)
+下拉阴影：被低估的CSS过滤器。
 
 
 
 ## joshwcomeau.com
 
-在CSS中设计美丽的阴影。
+![img](https://www.xmhudong.com/wp-content/uploads/2022/02/css3.jpg)
 
 - 默认语言：English
 
 - 官方文档：[在线地址](https://www.joshwcomeau.com/css/designing-shadows/)
 
-![img](https://www.xmhudong.com/wp-content/uploads/2022/02/css3.jpg)
+在CSS中设计美丽的阴影。
 
 
 
 ## Box-Shadows阴影网站
 
-简单干净的 UI 界面，通过滑动设置轻松完成好看的 CSS 阴影效果。
+![国外优秀的 CSS 阴影效果生成器-Boss设计](https://img.bossdesign.cn/2022/03/2022031015435082.png?0426)
 
 - 默认语言：English
 
-- 官方文档：[在线地址](https://box-shadow.dev/)
+- 官方文档：https://box-shadow.dev/
 
-![国外优秀的 CSS 阴影效果生成器-Boss设计](https://img.bossdesign.cn/2022/03/2022031015435082.png?0426)
+简单干净的 UI 界面，通过滑动设置轻松完成好看的 CSS 阴影效果。
 
 
 
 ## CSSBud
 
-一个让你创建阴影的生成器，通过在预览区生成代码。
+![国外优秀的 CSS 阴影效果生成器-Boss设计](https://img.bossdesign.cn/2022/03/2022031015434944.png?0426)
 
 - 默认语言：English
 
 - 官方文档：[在线地址](https://cssbud.com/css-generator/css-box-shadow-generator/)
 
-![国外优秀的 CSS 阴影效果生成器-Boss设计](https://img.bossdesign.cn/2022/03/2022031015434944.png?0426)
+一个让你创建阴影的生成器，通过在预览区生成代码。
 
 
 
 ## Neumorphism
 
-一个让你创建阴影的生成器，通过在预览区生成代码。
+![国外优秀的 CSS 阴影效果生成器-Boss设计](https://img.bossdesign.cn/2022/03/2022031015434576.png?0426)
 
 - 默认语言：English
 
 - 官方文档：[在线地址](https://neumorphism.io/#e0e0e0)
 
-![国外优秀的 CSS 阴影效果生成器-Boss设计](https://img.bossdesign.cn/2022/03/2022031015434576.png?0426)
+一个让你创建阴影的生成器，通过在预览区生成代码。
 
 
 
-## 🔥 box-shadow阴影网站
+## box-shadow阴影网站🔥
+
+![img](/images/html/shadow/10003.png)
+
+- 默认语言：English
+
+- 官方文档：https://box-shadow.art/
 
 前端开发 CSS 阴影效果生成器。
 
@@ -211,21 +217,15 @@ background-color: #9c27b0;
 - 可以自定义阴影属性，如颜色、大小、模糊度、位置等；
 - 支持将生成的阴影效果导出为CSS代码或PNG图片格式。
 
-- 默认语言：English
-
-- 官方文档：[CSS box shadow inspiration - Box Shadow (box-shadow.art)](https://box-shadow.art/)
-
 
 
 ## Glow Generator
 
-生成支持跨浏览器的纯CSS发光效果。
+![img](/images/html/shadow/10002.gif)
 
 - 默认语言：English
 
 - 官方文档：[在线地址](https://cssbud.com/css-generator/css-glow-generator/)
 
-![img](/images/html/shadow/10002.gif)
-
-
+生成支持跨浏览器的纯CSS发光效果。
 
