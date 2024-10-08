@@ -176,6 +176,7 @@ module.exports = {
         { text: 'Login登录注册', link: '/javascript/code/login-register/' },
         { text: 'Roll滚动加载', link: '/javascript/code/roll/' },
         { text: 'Verify验证码', link: '/javascript/code/verify/' },
+        { text: 'Background背景', link: '/javascript/code/background/' },
       ],
     },
   ],
@@ -200,6 +201,22 @@ module.exports = {
           text: '4.canvas绘制矩形的两种方式',
           link: '/javascript/note/4.canvas绘制矩形的两种方式',
         },
+        {
+          text: '5.javascript 图片（image）转换base64',
+          link: '/javascript/note/5.javascript 图片（image）转换base64',
+        },
+        {
+          text: '6.ES6+JS封装常用方法',
+          link: '/javascript/note/6.ES6+JS封装常用方法',
+        },
+        {
+          text: '7.ES6+JS数组常用方法',
+          link: '/javascript/note/7.ES6+JS数组常用方法',
+        },
+        {
+          text: '8.JavaScript设置cookie',
+          link: '/javascript/note/8.JavaScript设置cookie',
+        },
       ],
     },
   ],
@@ -221,21 +238,70 @@ module.exports = {
         { text: '开发笔记', link: '/' },
       ],
     },
+    {
+      text: 'Axios',
+      collapsed: false,
+      items: [
+        { text: 'Axios', link: '/javascript/js-frame/axios/' },
+        { text: '代码片段', link: '/' },
+        { text: '开发笔记', link: '/javascript/js-frame/axios/node/' },
+      ],
+    },
+    {
+      text: 'Alova',
+      collapsed: false,
+      items: [
+        { text: 'Alova', link: '/javascript/js-frame/alova/' },
+        { text: '代码片段', link: '/' },
+        { text: '开发笔记', link: '/' },
+      ],
+    },
+    {
+      text: 'Three.js',
+      collapsed: false,
+      items: [
+        { text: 'Three.js', link: '/javascript/js-frame/three/' },
+        { text: '代码片段', link: '/' },
+        { text: '开发笔记', link: '/' },
+      ],
+    },
+    {
+      text: '微前端',
+      collapsed: false,
+      items: [
+        { text: '微前端', link: '/javascript/js-frame/node/' },
+        { text: '代码片段', link: '/' },
+        { text: '开发笔记', link: '/' },
+      ],
+    },
+    {
+      text: '常用库',
+      collapsed: false,
+      items: [
+        { text: '常用库', link: '/javascript/js-frame/node/' },
+        { text: '代码片段', link: '/' },
+        { text: '开发笔记', link: '/' },
+      ],
+    },
   ],
-  //   '/html/bootstrap': [
-  //     {
-  //       text: 'Bootstrap',
-  //       collapsed: false,
-  //       items: [
-  //         { text: 'Bootstrap', link: '/html/bootstrap' },
-  //         { text: '开源项目', link: '/html/bootstrap/project' },
-  //         { text: '学习视频', link: '/html/bootstrap/video' },
-  //         // { text: '动画库', link: '/html/css/animista' },
-  //         // { text: '阴影库', link: '/html/css/shadow' },
-  //         // { text: '源码网站', link: '/html/css/website' },
-  //       ],
-  //     },
-  //   ],
+  '/vue/note/': [
+    {
+      text: '学习笔记',
+      collapsed: false,
+      items: [
+        { text: '1.Vite多个跨域配置', link: '/vue/note/1.Vite多个跨域配置' },
+        {
+          text: '2.Vite代理解决跨域问题',
+          link: '/vue/note/2.Vite代理解决跨域问题',
+        },
+        // { text: '开源项目', link: '/html/bootstrap/project' },
+        // { text: '学习视频', link: '/html/bootstrap/video' },
+        // { text: '动画库', link: '/html/css/animista' },
+        // { text: '阴影库', link: '/html/css/shadow' },
+        // { text: '源码网站', link: '/html/css/website' },
+      ],
+    },
+  ],
   //   '/html/layui': [
   //     {
   //       text: 'LayUI',

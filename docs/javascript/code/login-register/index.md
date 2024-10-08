@@ -665,3 +665,10 @@
 </html>
 ```
 
+
+
+## 简约登录页面Js粒子动态背景
+
+![img](/images/javascript/code/login-register/10004.png)
+
+源码地址：https://www.bootstrapmb.com/item/11461
