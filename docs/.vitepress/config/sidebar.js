@@ -28,7 +28,7 @@ module.exports = {
   // HTML&CSS
   '/html/': [
     {
-      text: 'HTML&CSS',
+      text: 'HTML&CSS🍁',
       collapsed: false,
       items: [
         { text: 'HTML', link: '/html/' },
@@ -43,7 +43,7 @@ module.exports = {
   ],
   '/html/code/': [
     {
-      text: '代码片段-HTML',
+      text: '代码片段🍁',
       collapsed: false,
       items: [
         { text: 'Animation动画', link: '/html/code/animation/' },
@@ -81,75 +81,98 @@ module.exports = {
   ],
   '/html/note/': [
     {
-      text: '开发笔记-HTML',
+      text: '开发笔记🍁',
       collapsed: false,
       items: htmlNote,
     },
   ],
-  '/html/css-frame/': [
+  '/html/bootstrap/': [
     {
-      text: 'CSS框架-HTML',
-      collapsed: false,
+      text: 'Bootstrap🍁',
+      collapsed: true,
       items: [
-        { text: '常用框架', link: '/html/css-frame/' },
-        { text: '不常用框架', link: '/html/css-frame/not-used/' },
+        { text: 'Bootstrap', link: '/html/bootstrap/' },
+        { text: '开源项目', link: '/html/bootstrap/project/' },
+        // { text: '代码片段', link: '/html/bootstrap/code/' },
+        // { text: '开发笔记', link: '/html/bootstrap/note/' },
       ],
     },
     {
-      text: 'Bootstrap',
+      text: '代码片段🍁',
       collapsed: false,
+      items: [],
+    },
+    {
+      text: '开发笔记🍁',
+      collapsed: false,
+      items: [],
+    },
+  ],
+  '/html/less/': [
+    {
+      text: 'Less🍁',
+      collapsed: true,
       items: [
-        { text: 'Bootstrap', link: '/html/css-frame/bootstrap/' },
-        { text: '开源项目', link: '/html/css-frame/bootstrap/project/' },
-        { text: '代码片段', link: '/html/css-frame/bootstrap/code/' },
-        { text: '开发笔记', link: '/html/css-frame/bootstrap/note/' },
+        { text: 'Less', link: '/html/less/' },
+        // { text: '代码片段', link: '/html/less/code/' },
+        // { text: '开发笔记', link: '/html/less/note/' },
       ],
     },
     {
-      text: 'Less',
+      text: '代码片段🍁',
       collapsed: false,
-      items: [
-        { text: 'Less', link: '/html/css-frame/less/' },
-        { text: '代码片段', link: '/html/css-frame/less/code/' },
-        { text: '开发笔记', link: '/html/css-frame/less/note/' },
-      ],
+      items: [],
     },
     {
-      text: 'Sass',
+      text: '开发笔记🍁',
       collapsed: false,
-      items: [
-        { text: 'Sass', link: '/html/css-frame/sass/' },
-        { text: '代码片段', link: '/html/css-frame/sass/code/' },
-        { text: '开发笔记', link: '/html/css-frame/sass/note/' },
-      ],
+      items: [],
     },
+  ],
+  '/html/sass/': [
     {
-      text: 'UnoCSS',
+      text: 'Sass🍁',
       collapsed: false,
       items: [
-        { text: 'UnoCSS', link: '/html/css-frame/unocss/' },
-        { text: '代码片段', link: '/html/css-frame/unocss/code/' },
-        { text: '开发笔记', link: '/html/css-frame/unocss/note/' },
-      ],
-    },
-    {
-      text: 'TailwindCSS',
-      collapsed: false,
-      items: [
-        { text: 'TailwindCSS', link: '/html/css-frame/tailwindcss/' },
-        { text: '代码片段', link: '/html/css-frame/tailwindcss/code/' },
-        { text: '开发笔记', link: '/html/css-frame/tailwindcss/note/' },
-      ],
-    },
-    {
-      text: '其他资源',
-      collapsed: false,
-      items: [
-        { text: '简历制作', link: '/html/css-frame/other/resume/' },
-        { text: '其他', link: '/html/css-frame/other/' },
+        { text: 'Sass', link: '/html/sass/' },
+        { text: '代码片段', link: '/html/sass/code/' },
+        { text: '开发笔记', link: '/html/sass/note/' },
       ],
     },
   ],
+  '/html/unocss/': [
+    {
+      text: 'UnoCSS🍁',
+      collapsed: false,
+      items: [
+        { text: 'UnoCSS', link: '/html/unocss/' },
+        { text: '代码片段', link: '/html/unocss/code/' },
+        { text: '开发笔记', link: '/html/unocss/note/' },
+      ],
+    },
+  ],
+  '/html/tailwindcss/': [
+    {
+      text: 'TailwindCSS🍁',
+      collapsed: false,
+      items: [
+        { text: 'TailwindCSS', link: '/html/tailwindcss/' },
+        { text: '代码片段', link: '/html/tailwindcss/code/' },
+        { text: '开发笔记', link: '/html/tailwindcss/note/' },
+      ],
+    },
+  ],
+  '/html/other/': [
+    {
+      text: '其他库🍁',
+      collapsed: false,
+      items: [
+        { text: '简历制作', link: '/html/other/resume/' },
+        { text: '其他', link: '/html/other/' },
+      ],
+    },
+  ],
+  // JavaScript
   '/javascript/': [
     {
       text: 'JavaScript',
@@ -166,7 +189,7 @@ module.exports = {
   ],
   '/javascript/code/': [
     {
-      text: '代码片段-JavaScript',
+      text: '代码片段',
       collapsed: false,
       items: [
         { text: 'Chart图表', link: '/javascript/code/chart/' },
@@ -179,10 +202,24 @@ module.exports = {
         { text: 'Background背景', link: '/javascript/code/background/' },
       ],
     },
+    // {
+    //   text: '代码片段-源码',
+    //   collapsed: false,
+    //   items: [
+    //     { text: 'Chart图表', link: '/javascript/code/chart/' },
+    //     { text: 'Video视频', link: '/javascript/code/video/' },
+    //     { text: 'Clock时钟', link: '/javascript/code/clock/' },
+    //     { text: 'Tab选项卡', link: '/javascript/code/tab/' },
+    //     { text: 'Login登录注册', link: '/javascript/code/login-register/' },
+    //     { text: 'Roll滚动加载', link: '/javascript/code/roll/' },
+    //     { text: 'Verify验证码', link: '/javascript/code/verify/' },
+    //     { text: 'Background背景', link: '/javascript/code/background/' },
+    //   ],
+    // },
   ],
   '/javascript/note/': [
     {
-      text: '开发笔记-JavaScript',
+      text: '开发笔记',
       collapsed: false,
       items: [
         {
@@ -217,70 +254,130 @@ module.exports = {
           text: '8.JavaScript设置cookie',
           link: '/javascript/note/8.JavaScript设置cookie',
         },
+        {
+          text: '9.JavaScript复杂判断的更优雅写法',
+          link: '/javascript/note/9.JavaScript复杂判断的更优雅写法',
+        },
+        {
+          text: '10.15个常用的正则表达式技巧',
+          link: '/javascript/note/10.15个常用的正则表达式技巧',
+        },
+        {
+          text: '11.21个简洁的JavaScript单行代码示例技巧',
+          link: '/javascript/note/11.21个简洁的JavaScript单行代码示例技巧',
+        },
+        {
+          text: '12.5个Promise高级使用技巧',
+          link: '/javascript/note/12.5个Promise高级使用技巧',
+        },
+        {
+          text: '13.25个让你眼前一亮的JavaScript代码技巧',
+          link: '/javascript/note/13.25个让你眼前一亮的JavaScript代码技巧',
+        },
+        {
+          text: '14.18个重要的JavaScript字符串方法',
+          link: '/javascript/note/14.18个重要的JavaScript字符串方法',
+        },
+        {
+          text: '15.8种常见的JavaScript ES6 使用技巧',
+          link: '/javascript/note/15.8种常见的JavaScript ES6 使用技巧',
+        },
+        {
+          text: '16.async await 函数到底要不要加 try catch',
+          link: '/javascript/note/16.async await 函数到底要不要加 try catch',
+        },
+        {
+          text: '17.28个JavaScript数组方法清单列表',
+          link: '/javascript/note/17.28个JavaScript数组方法清单列表',
+        },
       ],
     },
   ],
-  '/javascript/js-frame/': [
+  '/javascript/typescript/': [],
+  '/javascript/node/': [
     {
-      text: 'JS框架-JavaScript',
+      text: 'Node.js',
       collapsed: false,
       items: [
-        { text: '常用框架', link: '/' },
-        { text: '不常用框架', link: '/' },
-      ],
-    },
-    {
-      text: 'Node',
-      collapsed: false,
-      items: [
-        { text: 'Node', link: '/javascript/js-frame/node/' },
+        { text: 'Node', link: '/javascript/node/' },
         { text: '代码片段', link: '/' },
         { text: '开发笔记', link: '/' },
       ],
     },
+  ],
+  '/javascript/axios/': [
     {
-      text: 'Axios',
+      text: 'Axios.js',
       collapsed: false,
       items: [
-        { text: 'Axios', link: '/javascript/js-frame/axios/' },
+        { text: 'Axios', link: '/javascript/axios/' },
         { text: '代码片段', link: '/' },
-        { text: '开发笔记', link: '/javascript/js-frame/axios/node/' },
+        { text: '开发笔记', link: '/javascript/axios/node/' },
       ],
     },
     {
-      text: 'Alova',
+      text: '开发笔记',
       collapsed: false,
       items: [
-        { text: 'Alova', link: '/javascript/js-frame/alova/' },
+        {
+          text: '1.Axios源码中的10多个工具函数',
+          link: '/javascript/axios/note/1.Axios源码中的10多个工具函数',
+        },
+        {
+          text: '2.Axios上传获取进度及下载文件',
+          link: '/javascript/axios/note/2.Axios上传获取进度及下载文件',
+        },
+        {
+          text: '3.Axios请求中以params或body形式传递参数的区别',
+          link: '/javascript/axios/note/3.Axios请求中以params或body形式传递参数的区别',
+        },
+
+        // { text: '代码片段', link: '/' },
+        // { text: '开发笔记', link: '/javascript/axios/node/' },
+      ],
+    },
+  ],
+  '/javascript/alova/': [
+    {
+      text: 'Alova.js',
+      collapsed: false,
+      items: [
+        { text: 'Alova', link: '/javascript/alova/' },
         { text: '代码片段', link: '/' },
         { text: '开发笔记', link: '/' },
       ],
     },
+  ],
+  '/javascript/three/': [
     {
       text: 'Three.js',
       collapsed: false,
       items: [
-        { text: 'Three.js', link: '/javascript/js-frame/three/' },
+        { text: 'Three', link: '/javascript/three/' },
         { text: '代码片段', link: '/' },
         { text: '开发笔记', link: '/' },
       ],
     },
+  ],
+  '/javascript/micro-frontend/': [
     {
       text: '微前端',
       collapsed: false,
       items: [
-        { text: '微前端', link: '/javascript/js-frame/node/' },
+        { text: '微前端', link: '/javascript/micro-frontend/' },
         { text: '代码片段', link: '/' },
         { text: '开发笔记', link: '/' },
       ],
     },
+  ],
+  '/javascript/other/': [
     {
       text: '常用库',
       collapsed: false,
       items: [
-        { text: '常用库', link: '/javascript/js-frame/node/' },
-        { text: '代码片段', link: '/' },
-        { text: '开发笔记', link: '/' },
+        { text: '常用', link: '/javascript/other/' },
+        // { text: '代码片段', link: '/' },
+        // { text: '开发笔记', link: '/' },
       ],
     },
   ],

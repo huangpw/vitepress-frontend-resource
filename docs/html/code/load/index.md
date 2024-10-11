@@ -10,6 +10,713 @@
 
 
 
+## 仿figma加载中盒子转圈效果
+
+效果图
+
+![img](https://segmentfault.com/img/bVc4up9)
+
+代码
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            padding: 120px;
+        }
+
+        .borderDom {
+            position: relative;
+            width: 18px;
+            height: 10px;
+            border-radius: 10px;
+            border: 2px solid #333;
+            animation: oneAnimation 4s cubic-bezier(.12, 0, .39, 0) infinite;
+        }
+
+        /* 中间的线使用定位调整到中间位置 */
+        .middleLine {
+            position: absolute;
+            left: 8px;
+            width: 2px;
+            height: 10px;
+            background-color: #333;
+            animation: twoAnimation 4s cubic-bezier(.12, 0, .39, 0) infinite;
+        }
+
+        /* 外边框使用X轴方向的缩放 */
+        @keyframes oneAnimation {
+            0% {
+                transform: scaleX(.5);
+            }
+
+            5% {
+                transform: scaleX(1);
+            }
+
+            10% {
+                transform: scaleX(.5);
+            }
+
+            15% {
+                transform: scaleX(1);
+            }
+
+            20% {
+                transform: scaleX(.5);
+            }
+
+            25% {
+                transform: scaleX(1);
+            }
+
+            75% {
+                transform: scaleX(1);
+            }
+
+            80% {
+                transform: scaleX(.5);
+            }
+
+            85% {
+                transform: scaleX(1);
+            }
+
+            90% {
+                transform: scaleX(.5);
+            }
+
+            95% {
+                transform: scaleX(1);
+            }
+
+            100% {
+                transform: scaleX(.5);
+            }
+        }
+
+        /* 中间线使用translate移动达到效果 */
+        @keyframes twoAnimation {
+            0% {
+                transform: translate(-9px);
+            }
+
+            5% {
+                transform: translate(0);
+            }
+
+            10% {
+                transform: translate(9px);
+            }
+
+            10.1% {
+                transform: translate(-9px);
+            }
+
+            15% {
+                transform: translate(0);
+            }
+
+            20% {
+                transform: translate(9px);
+            }
+
+            20.1% {
+                transform: translate(-9px);
+            }
+
+            25% {
+                transform: translate(0);
+            }
+
+            75% {
+                transform: translate(0);
+            }
+
+            80% {
+                transform: translate(9px);
+            }
+
+            80.1% {
+                transform: translate(-9px);
+            }
+
+            85% {
+                transform: translate(0);
+            }
+
+            90% {
+                transform: translate(9px);
+            }
+
+            90.1% {
+                transform: translate(-9px);
+            }
+
+            95% {
+                transform: translate(0);
+            }
+
+            100% {
+                transform: translate(9px);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="borderDom">
+        <div class="middleLine"></div>
+    </div>
+</body>
+
+</html>
+```
+
+
+
+## 音频波纹加载效果
+
+效果图
+
+![img](https://segmentfault.com/img/bVc4uov)
+
+代码
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            padding: 120px;
+        }
+
+        .music {
+            width: 175px;
+            height: 100px;
+            display: flex;
+        }
+
+        .music span {
+            width: 6px;
+            border-radius: 18px;
+            margin-right: 6px;
+        }
+
+        .music span:nth-child(1) {
+            /* 时间递增，参差不齐的效果 */
+            animation: bar1 2s 0.2s infinite linear;
+        }
+
+        .music span:nth-child(2) {
+            animation: bar2 2s 0.4s infinite linear;
+        }
+
+        .music span:nth-child(3) {
+            animation: bar3 2s 0.6s infinite linear;
+        }
+
+        .music span:nth-child(4) {
+            animation: bar4 2s 0.8s infinite linear;
+        }
+
+        .music span:nth-child(5) {
+            animation: bar5 2s 1.0s infinite linear;
+        }
+
+        .music span:nth-child(6) {
+            animation: bar6 2s 1.2s infinite linear;
+        }
+
+        .music span:nth-child(7) {
+            animation: bar7 2s 1.4s infinite linear;
+        }
+
+        .music span:nth-child(8) {
+            animation: bar8 2s 1.6s infinite linear;
+        }
+
+        .music span:nth-child(9) {
+            animation: bar9 2s 1.8s infinite linear;
+        }
+
+        @keyframes bar1 {
+            0% {
+                background: #f677b0;
+                margin-top: 25%;
+                height: 10%;
+            }
+
+            50% {
+                background: #f677b0;
+                height: 100%;
+                margin-top: 0%;
+            }
+
+            100% {
+                background: #f677b0;
+                height: 10%;
+                margin-top: 25%;
+            }
+        }
+
+        @keyframes bar2 {
+            0% {
+                background: #df7ff2;
+                margin-top: 25%;
+                height: 10%;
+            }
+
+            50% {
+                background: #df7ff2;
+                height: 100%;
+                margin-top: 0%;
+            }
+
+            100% {
+                background: #df7ff2;
+                height: 10%;
+                margin-top: 25%;
+            }
+        }
+
+        @keyframes bar3 {
+            0% {
+                background: #8c7ff2;
+                margin-top: 25%;
+                height: 10%;
+            }
+
+            50% {
+                background: #8c7ff2;
+                height: 100%;
+                margin-top: 0%;
+            }
+
+            100% {
+                background: #8c7ff2;
+                height: 10%;
+                margin-top: 25%;
+            }
+        }
+
+        @keyframes bar4 {
+            0% {
+                background: #7fd0f2;
+                margin-top: 25%;
+                height: 10%;
+            }
+
+            50% {
+                background: #7fd0f2;
+                height: 100%;
+                margin-top: 0%;
+            }
+
+            100% {
+                background: #7fd0f2;
+                height: 10%;
+                margin-top: 25%;
+            }
+        }
+
+        @keyframes bar5 {
+            0% {
+                background: #7ff2d3;
+                margin-top: 25%;
+                height: 10%;
+            }
+
+            50% {
+                background: #7ff2d3;
+                height: 100%;
+                margin-top: 0%;
+            }
+
+            100% {
+                background: #7ff2d3;
+                height: 10%;
+                margin-top: 25%;
+            }
+        }
+
+        @keyframes bar6 {
+            0% {
+                background: #7ff2a0;
+                margin-top: 25%;
+                height: 10%;
+            }
+
+            50% {
+                background: #7ff2a0;
+                height: 100%;
+                margin-top: 0%;
+            }
+
+            100% {
+                background: #7ff2a0;
+                height: 10%;
+                margin-top: 25%;
+            }
+        }
+
+        @keyframes bar7 {
+            0% {
+                background: #adf27f;
+                margin-top: 25%;
+                height: 10%;
+            }
+
+            50% {
+                background: #adf27f;
+                height: 100%;
+                margin-top: 0%;
+            }
+
+            100% {
+                background: #adf27f;
+                height: 10%;
+                margin-top: 25%;
+            }
+        }
+
+        @keyframes bar8 {
+            0% {
+                background: #e7f27f;
+                margin-top: 25%;
+                height: 10%;
+            }
+
+            50% {
+                background: #e7f27f;
+                height: 100%;
+                margin-top: 0%;
+            }
+
+            100% {
+                background: #e7f27f;
+                height: 10%;
+                margin-top: 25%;
+            }
+        }
+
+        @keyframes bar9 {
+            0% {
+                background: #ecaa64;
+                margin-top: 25%;
+                height: 10%;
+            }
+
+            50% {
+                background: #ecaa64;
+                height: 100%;
+                margin-top: 0%;
+            }
+
+            100% {
+                background: #ecaa64;
+                height: 10%;
+                margin-top: 25%;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="music">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+    <!-- 给每一个bar指定margin-top和height的动画的变化
+    为了效果更好看，让每一个bar的背景色都不一样，便是五彩斑斓了 -->
+</body>
+
+</html>
+```
+
+
+
+## 吃豆人效果
+
+效果图
+
+![img](https://segmentfault.com/img/bVc4uoI)
+
+代码
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .pacMan {
+            display: inline-block;
+            position: relative;
+            margin: 120px;
+        }
+
+        /* 使用伪元素创建吃豆人的眼睛 */
+        .pacMan::before {
+            content: '';
+            width: 0.4em;
+            height: 0.4em;
+            border-radius: 50%;
+            background-color: #333;
+            position: absolute;
+            top: 6px;
+            left: 21px;
+            z-index: 2000;
+        }
+
+        /* mouth1搭配mouth2组成吃豆人张嘴闭嘴的动画 */
+        .mouth1 {
+            width: 0;
+            height: 0;
+            border: 25px solid #E1B204;
+            border-radius: 50%;
+            border-right-color: transparent;
+            animation: upup .32s 0s infinite;
+            position: relative;
+            z-index: 3;
+        }
+
+        @keyframes upup {
+            0% {
+                transform: rotate(270deg);
+            }
+
+            50% {
+                transform: rotate(1turn);
+            }
+
+            100% {
+                transform: rotate(270deg);
+            }
+        }
+
+        .mouth2 {
+            width: 0;
+            height: 0;
+            border: 25px solid #E1B204;
+            border-right-color: transparent;
+            border-radius: 25px;
+            margin-top: -50px;
+            animation: downdown .32s 0s infinite;
+            position: relative;
+            z-index: 3;
+        }
+
+        @keyframes downdown {
+            0% {
+                transform: rotate(90deg);
+            }
+
+            50% {
+                transform: rotate(0);
+            }
+
+            100% {
+                transform: rotate(90deg);
+            }
+        }
+
+        /* 豆子不断移动 */
+        .beanOne {
+            background-color: #E1B204;
+            border-radius: 50%;
+            width: 10px;
+            height: 10px;
+            position: absolute;
+            transform: translateY(-6px);
+            top: 25px;
+            left: 100px;
+            animation: beanAnimation 1s linear .52s infinite;
+        }
+
+        .beanTwo {
+            background-color: #E1B204;
+            border-radius: 50%;
+            width: 10px;
+            height: 10px;
+            position: absolute;
+            transform: translateY(-6px);
+            top: 25px;
+            left: 100px;
+            animation: beanAnimation 1s linear 1.1s infinite;
+        }
+
+
+        @keyframes beanAnimation {
+            75% {
+                opacity: .72;
+            }
+
+            100% {
+                transform: translate(-100px, -6px);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="pacMan">
+        <div class="eye"></div>
+        <div class="mouth1"></div>
+        <div class="mouth2"></div>
+        <div class="beanOne"></div>
+        <div class="beanTwo"></div>
+    </div>
+</body>
+
+</html>
+```
+
+
+
+## 小球转圈加载效果
+
+效果图
+
+![img](https://segmentfault.com/img/bVc4upG)
+
+代码
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        .wrap {
+            margin: 120px 0 0 240px;
+            width: 75px;
+            height: 75px;
+            position: relative;
+            /* transform-origin: 设置的效果搭配边框看，效果更加明显 */
+            /* border: 1px solid #e9e9e9; */
+        }
+
+        .round {
+            position: absolute;
+            width: 13px;
+            height: 13px;
+            border-radius: 50%;
+            background-color: rgb(241, 141, 157);
+            /* 加上动画效果 */
+            animation: circleRound 2.8s ease infinite;
+            /* 设置旋转中心，搭配.wrap的border看 */
+            transform-origin: 50% 75px;
+        }
+
+        /* 注意z-index层级关系，依次递减 */
+        .round:nth-child(1) {
+            z-index: 7;
+        }
+
+        /* 注意动画延后animation-delay播放，依次递增 */
+        /* 至于小圆球则越来越小 */
+        .round:nth-child(2) {
+            height: 12px;
+            width: 12px;
+            background-color: rgb(199, 136, 185);
+            animation-delay: .2s;
+            z-index: 6;
+        }
+
+        .round:nth-child(3) {
+            height: 11px;
+            width: 11px;
+            background-color: rgb(153, 69, 223);
+            animation-delay: .4s;
+            z-index: 5;
+        }
+
+        .round:nth-child(4) {
+            height: 10px;
+            width: 10px;
+            background-color: rgb(69, 141, 223);
+            animation-delay: .6s;
+            z-index: 4;
+        }
+
+        .round:nth-child(5) {
+            height: 9px;
+            width: 9px;
+            background-color: rgb(69, 223, 203);
+            animation-delay: .8s;
+            z-index: 3;
+        }
+
+        .round:nth-child(6) {
+            height: 8px;
+            width: 8px;
+            background-color: rgb(100, 223, 69);
+            animation-delay: 1s;
+            z-index: 2;
+        }
+
+        .round:nth-child(7) {
+            height: 7px;
+            width: 7px;
+            background-color: rgb(223, 200, 69);
+            animation-delay: 1.2s;
+            z-index: 1;
+        }
+
+        @keyframes circleRound {
+            to {
+                transform: rotate(1turn);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="wrap">
+        <div class="round"></div>
+        <div class="round"></div>
+        <div class="round"></div>
+        <div class="round"></div>
+        <div class="round"></div>
+        <div class="round"></div>
+        <div class="round"></div>
+    </div>
+</body>
+
+</html>
+```
+
+
+
 ## Spin Kit🔥
 
 一个CSS加载动画库，CSS代码十分简洁。
