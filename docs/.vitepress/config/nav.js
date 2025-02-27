@@ -4,7 +4,7 @@ module.exports = [
     link: '/introduction/',
   },
   {
-    text: '🍁HTML&CSS',
+    text: '🍃Html',
     items: [
       { text: 'HTML&CSS', link: '/html/' },
       { text: '代码片段', link: '/html/code/animation/' },
@@ -18,7 +18,17 @@ module.exports = [
     ],
   },
   {
-    text: '☘️JavaScript',
+    text: '🍀Vue',
+    items: [{
+      text: 'Vue3UI🌿',
+      items: [
+        { text: 'JavaScript', link: '/javascript/' },
+        { text: '代码片段', link: '/javascript/code/chart/' }
+      ]
+    }]
+  },
+  {
+    text: '🍂JavaScript',
     items: [
       { text: 'JavaScript', link: '/javascript/' },
       { text: '代码片段', link: '/javascript/code/chart/' },
@@ -33,7 +43,7 @@ module.exports = [
     ],
   },
   {
-    text: '🍀Vue',
+    text: '🍃Vue',
     items: [
       { text: '全家桶', link: '/vue' },
       { text: 'Vue2UI', link: '/vue/vue2ui' },
@@ -45,6 +55,16 @@ module.exports = [
       //   { text: 'Vitepress', link: '/vue/vitepress' },
       //   { text: 'Vuepress', link: '/vue/vuepress' },
     ],
+  },
+  {
+    text: '🍀Vue',
+    items: [{
+      text: 'Vue3UI🌿',
+      items: [
+        { text: 'JavaScript', link: '/javascript/' },
+        { text: '代码片段', link: '/javascript/code/chart/' }
+      ]
+    }]
   },
   //   {
   //     text: '🌲React',

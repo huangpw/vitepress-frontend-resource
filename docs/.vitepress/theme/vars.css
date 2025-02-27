@@ -11,6 +11,7 @@
     rgb(62, 176, 125, 0.9) 50%
   );
   --vp-home-hero-image-filter: blur(60px);
+  /* --vp-layout-max-width: 80vw; */
 }
 
 .divider {
@@ -48,4 +49,8 @@
   background-color: #3eaf7c;
   /* border: 2px solid #555555; */
   border: 2px solid #3eaf7c;
+}
+
+.content-container {
+  max-width: 80vw !important;
 }

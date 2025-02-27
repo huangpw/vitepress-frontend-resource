@@ -4,7 +4,7 @@ const footer = require('./config/footer') // 页脚
 const socialLinks = require('./config/socialLinks') // 链接
 
 export default {
-  base: process.env.NODE_ENV === 'production' ? '/frontend-resource/' : '/', // 站点路径
+  base: process.env.NODE_ENV === 'production' ? '/frontend/' : '/', // 站点路径
   title: '前端-资源库', // 站点标题
   lang: 'zh-CN',
   description: '收集前端资源，包含Vue&React&Angular&Electron等',

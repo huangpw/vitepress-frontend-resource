@@ -9,10 +9,10 @@ hero:
     alt: Vue3-Resource
   actions:
     - theme: brand
-      text: 立即查看 →
+      text: 立即阅读
       link: /introduction
     - theme: alt
-      text: View on GitHub
+      text: 后端资源
       link: https://github.com/huangpw/document-frontend-vitepress
 
 features:
